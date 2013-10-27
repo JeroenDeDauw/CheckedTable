@@ -10,11 +10,11 @@ class ResultEntity {
 	protected $resultCells;
 
 	/**
-	 * @param DIWikiPage $page
+	 * @param DIWikiPage $subject
 	 * @param ResultCell[] $resultCells
 	 */
-	public function __construct( DIWikiPage $page, array $resultCells ) {
-		$this->subject = $page;
+	public function __construct( DIWikiPage $subject, array $resultCells ) {
+		$this->subject = $subject;
 		$this->resultCells = $resultCells;
 	}
 
