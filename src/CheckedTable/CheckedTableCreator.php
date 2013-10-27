@@ -17,10 +17,12 @@ class CheckedTableCreator {
 
 	protected $printRequestLabel;
 	protected $expectedValue;
+	protected $negate;
 
-	public function __construct() {
-		$this->printRequestLabel = 'Has talk type';
-		$this->expectedValue = 'Technical talk';
+	public function __construct( $printRequestLabel, $expectedValue, $negate = false ) {
+		$this->printRequestLabel = $printRequestLabel;
+		$this->expectedValue = $expectedValue;
+		$this->negate = $negate;
 	}
 
 	public function getHtmlFor( SimpleResult $result ) {
@@ -51,13 +53,13 @@ class CheckedTableCreator {
 
 		return
 			'<span style="' . $style . '">' .
-			htmlspecialchars( $titleText ) .
+				htmlspecialchars( $titleText ) .
 			'</span>';
 	}
 
 	protected function hasDesiredTalkType( ResultEntity $entity ) {
 		$talkTypes = $this->getTalkTypes( $entity );
-		return in_array( $this->expectedValue, $talkTypes );
+		return in_array( $this->expectedValue, $talkTypes ) xor $this->negate;
 	}
 
 	protected function getTalkTypes( ResultEntity $entity ) {

@@ -19,10 +19,38 @@ use SMWQueryResult;
 class CheckedTablePrinter extends ResultPrinter {
 
 	protected function getResultText( SMWQueryResult $queryResult, $outputMode ) {
-		$tableCreator = new CheckedTableCreator();
+		$tableCreator = new CheckedTableCreator(
+			$this->params['property'],
+			$this->params['value'],
+			$this->params['negate']
+		);
+
 		$resultSimplifier = new ResultSimplifier();
 
 		return $tableCreator->getHtmlFor( $resultSimplifier->getSimplified( $queryResult ) );
+	}
+
+	public function getParamDefinitions( array $definitions ) {
+		$definitions['property'] = array(
+			'type' => 'string',
+			'default' => 'Has talk type',
+			'message' => 'todo', // TODO
+		);
+
+		$definitions['value'] = array(
+			'type' => 'string',
+			'default' => 'Technical talk',
+			'message' => 'todo', // TODO
+		);
+
+		$definitions['negate'] = array(
+			'type' => 'boolean',
+			'default' => false,
+			'message' => 'todo', // TODO
+		);
+
+		return $definitions;
+
 	}
 
 }

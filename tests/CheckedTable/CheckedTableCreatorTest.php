@@ -17,8 +17,8 @@ use SMW\Query\Result\SimpleResult;
  */
 class CheckedTableCreatorTest extends \PHPUnit_Framework_TestCase {
 
-	const PRINT_REQUEST_LABEL = 'Has talk type';
-	const EXPECTED_VALUE = 'Technical talk';
+	const PRINT_REQUEST_LABEL = 'Some property name';
+	const EXPECTED_VALUE = 'An awesome value';
 
 	public function testGetHtmlForEmptyResult() {
 		$this->assertResultTurnsIntoHtml(
@@ -28,7 +28,7 @@ class CheckedTableCreatorTest extends \PHPUnit_Framework_TestCase {
 	}
 
 	protected function assertResultTurnsIntoHtml( SimpleResult $result, $expectedHtml ) {
-		$tableCreator = new CheckedTableCreator();
+		$tableCreator = new CheckedTableCreator( self::PRINT_REQUEST_LABEL, self::EXPECTED_VALUE );
 
 		$resultHtml = $tableCreator->getHtmlFor( $result );
 

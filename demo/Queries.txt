@@ -11,3 +11,13 @@ Initial query for using the checkedtable format:
 | format=checkedtable
 | ?Has talk type
 }}
+
+Query using all 3 parameters part of "the solution":
+
+{{#ask: [[Category:Talks]] [[Category:SMWCon Fall 2013]]
+| format=checkedtable
+| ?Has duration
+| property=Has duration
+| value=25 minutes
+| negate=yes
+}}
