@@ -36,7 +36,7 @@ class CheckedTableCreator {
 	}
 
 	protected function getTextForEntity( ResultEntity $entity ) {
-		$titleText = $entity->getPage()->getTitle()->getFullText();
+		$titleText = $entity->getSubject()->getTitle()->getFullText();
 
 		$style = $this->hasDesiredTalkType( $entity ) ? 'color:darkgreen; font-weight: bold' : 'color:darkgray';
 

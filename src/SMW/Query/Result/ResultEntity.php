@@ -6,7 +6,7 @@ use SMW\DIWikiPage;
 
 class ResultEntity {
 
-	protected $page;
+	protected $subject;
 	protected $resultCells;
 
 	/**
@@ -14,15 +14,15 @@ class ResultEntity {
 	 * @param ResultCell[] $resultCells
 	 */
 	public function __construct( DIWikiPage $page, array $resultCells ) {
-		$this->page = $page;
+		$this->subject = $page;
 		$this->resultCells = $resultCells;
 	}
 
 	/**
 	 * @return DIWikiPage
 	 */
-	public function getPage() {
-		return $this->page;
+	public function getSubject() {
+		return $this->subject;
 	}
 
 	/**
