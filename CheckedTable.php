@@ -66,4 +66,4 @@ $GLOBALS['wgHooks']['UnitTestsList'][]	= function( array &$files ) {
 	return true;
 };
 
-$GLOBALS['smwgResultFormats']['checkedtable'] = 'CheckedTable\CheckedTablePrinter';
+//$GLOBALS['smwgResultFormats']['checkedtable'] = 'CheckedTable\CheckedTablePrinter';

@@ -7,6 +7,7 @@ use CheckedTable\CheckedTablePrinter;
 /**
  * @covers CheckedTable\CheckedTablePrinter
  * @group CheckedTable
+ * @group SMWExtension
  *
  * @licence GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
