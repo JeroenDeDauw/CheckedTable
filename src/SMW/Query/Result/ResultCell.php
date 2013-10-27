@@ -6,6 +6,10 @@ use InvalidArgumentException;
 use SMWPrintRequest;
 use SMWDataItem;
 
+/**
+ * @licence GNU GPL v2+
+ * @author Jeroen De Dauw < jeroendedauw@gmail.com >
+ */
 class ResultCell {
 
 	protected $printRequest;

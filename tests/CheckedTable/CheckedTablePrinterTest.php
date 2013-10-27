@@ -21,18 +21,4 @@ class CheckedTablePrinterTest extends \PHPUnit_Framework_TestCase {
 		return new CheckedTablePrinter( self::FORMAT_NAME );
 	}
 
-//	public function testReturnsString() {
-//		$queryResult = $this->getMock( 'SMWQueryResult' );
-//
-//		$queryResult->expects( '' )
-//
-//		$result = $this->newInstance()->getResult(
-//
-//			array(),
-//			SMW_OUTPUT_WIKI
-//		);
-//
-//		$this->assertInternalType( 'string', $result );
-//	}
-
 }

@@ -4,6 +4,10 @@ namespace SMW\Query\Result;
 
 use SMW\DIWikiPage;
 
+/**
+ * @licence GNU GPL v2+
+ * @author Jeroen De Dauw < jeroendedauw@gmail.com >
+ */
 class ResultEntity {
 
 	protected $subject;

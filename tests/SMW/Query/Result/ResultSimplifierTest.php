@@ -8,6 +8,9 @@ use SMW\Query\Result\ResultSimplifier;
  * @covers SMW\Query\Result\ResultSimplifier
  * @group CheckedTable
  * @group ResultEntity
+ *
+ * @licence GNU GPL v2+
+ * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
 class ResultSimplifierTest extends \PHPUnit_Framework_TestCase {
 

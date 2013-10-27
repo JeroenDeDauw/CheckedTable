@@ -9,6 +9,9 @@ use SMWPrintRequest;
  * @covers SMW\Query\Result\ResultCell
  * @group CheckedTable
  * @group ResultEntity
+ *
+ * @licence GNU GPL v2+
+ * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
 class ResultCellTest extends \PHPUnit_Framework_TestCase {
 
