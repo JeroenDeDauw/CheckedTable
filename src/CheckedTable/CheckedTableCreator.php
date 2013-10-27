@@ -6,6 +6,13 @@ use SMW\Query\Result\ResultCell;
 use SMW\Query\Result\ResultEntity;
 use SMW\Query\Result\SimpleResult;
 
+/**
+ * This class does the actual work for determining which values match the desired one,
+ * and creates the output to visualize this.
+ *
+ * @licence GNU GPL v2+
+ * @author Jeroen De Dauw < jeroendedauw@gmail.com >
+ */
 class CheckedTableCreator {
 
 	protected $printRequestLabel = 'Has talk type';
