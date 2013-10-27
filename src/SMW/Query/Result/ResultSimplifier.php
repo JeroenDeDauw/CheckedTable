@@ -14,6 +14,10 @@ class ResultSimplifier {
 	 */
 	protected $queryResult;
 
+	/**
+	 * @param SMWQueryResult $queryResult
+	 * @return SimpleResult
+	 */
 	public function getSimplified( SMWQueryResult $queryResult ) {
 		$this->queryResult = $queryResult;
 		return $this->constructSimplifiedResult();
