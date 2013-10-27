@@ -8,6 +8,7 @@ use SMW\Query\Result\ResultSimplifier;
  * @covers SMW\Query\Result\ResultSimplifier
  * @group CheckedTable
  * @group ResultEntity
+ * @group SMWExtension
  *
  * @licence GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >

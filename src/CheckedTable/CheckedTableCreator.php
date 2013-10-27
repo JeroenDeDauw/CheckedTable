@@ -15,10 +15,12 @@ use SMW\Query\Result\SimpleResult;
  */
 class CheckedTableCreator {
 
-	protected $printRequestLabel = 'Has talk type';
-	protected $expectedValue = 'Technical talk';
+	protected $printRequestLabel;
+	protected $expectedValue;
 
 	public function __construct() {
+		$this->printRequestLabel = 'Has talk type';
+		$this->expectedValue = 'Technical talk';
 	}
 
 	public function getHtmlFor( SimpleResult $result ) {
