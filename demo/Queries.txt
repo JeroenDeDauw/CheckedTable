@@ -1,0 +1,13 @@
+Verify you imported data data correctly with:
+
+{{#ask: [[Category:Talks]] [[Category:SMWCon Fall 2013]]
+| format=table
+| ?Has talk type
+}}
+
+Initial query for using the checkedtable format:
+
+{{#ask: [[Category:Talks]] [[Category:SMWCon Fall 2013]]
+| format=checkedtable
+| ?Has talk type
+}}

@@ -1,0 +1,4647 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>semantic-mediawiki.org</sitename>
+    <base>https://semantic-mediawiki.org/wiki/Semantic_MediaWiki</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">semantic-mediawiki.org</namespace>
+      <namespace key="5" case="first-letter">semantic-mediawiki.org talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="90" case="first-letter">Thread</namespace>
+      <namespace key="91" case="first-letter">Thread talk</namespace>
+      <namespace key="92" case="first-letter">Summary</namespace>
+      <namespace key="93" case="first-letter">Summary talk</namespace>
+      <namespace key="102" case="first-letter">Property</namespace>
+      <namespace key="103" case="first-letter">Property talk</namespace>
+      <namespace key="106" case="first-letter">Form</namespace>
+      <namespace key="107" case="first-letter">Form talk</namespace>
+      <namespace key="108" case="first-letter">Concept</namespace>
+      <namespace key="109" case="first-letter">Concept talk</namespace>
+      <namespace key="170" case="first-letter">Filter</namespace>
+      <namespace key="171" case="first-letter">Filter talk</namespace>
+      <namespace key="200" case="first-letter">Print</namespace>
+      <namespace key="201" case="first-letter">Print talk</namespace>
+      <namespace key="202" case="first-letter">Demo</namespace>
+      <namespace key="203" case="first-letter">Demo talk</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Property:APIURL</title>
+    <ns>102</ns>
+    <id>5984</id>
+    <revision>
+      <id>26802</id>
+      <timestamp>2013-03-16T06:38:55Z</timestamp>
+      <contributor>
+        <username>Cariaso</username>
+        <id>112</id>
+      </contributor>
+      <comment>make it a URL</comment>
+      <text xml:space="preserve" bytes="61">Used to track the location of the api.php 
+
+[[has type::URL]]</text>
+      <sha1>9amhy65o86ugsczwzpmlfi0fd51du5o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A d'autres nécessités</title>
+    <ns>102</ns>
+    <id>2386</id>
+    <revision>
+      <id>10643</id>
+      <timestamp>2011-10-25T11:24:39Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A des auteurs</title>
+    <ns>102</ns>
+    <id>2379</id>
+    <revision>
+      <id>10632</id>
+      <timestamp>2011-10-25T11:11:01Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Cette propriété est de type [[Has type:Page]]&quot;</comment>
+      <text xml:space="preserve" bytes="47">Cette propriété est de type [[Has type:Page]]</text>
+      <sha1>pgghjaipc3uur6jeykmpjxvao2szo7w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A des catégories</title>
+    <ns>102</ns>
+    <id>2380</id>
+    <revision>
+      <id>10633</id>
+      <timestamp>2011-10-25T11:12:37Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A un composant</title>
+    <ns>102</ns>
+    <id>2381</id>
+    <revision>
+      <id>10634</id>
+      <timestamp>2011-10-25T11:13:40Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A un nom de format</title>
+    <ns>102</ns>
+    <id>2382</id>
+    <revision>
+      <id>10635</id>
+      <timestamp>2011-10-25T11:14:26Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A une description</title>
+    <ns>102</ns>
+    <id>2383</id>
+    <revision>
+      <id>10636</id>
+      <timestamp>2011-10-25T11:15:01Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A une version maximum</title>
+    <ns>102</ns>
+    <id>2387</id>
+    <revision>
+      <id>10644</id>
+      <timestamp>2011-10-25T11:25:04Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:A une version minimum</title>
+    <ns>102</ns>
+    <id>2384</id>
+    <revision>
+      <id>10637</id>
+      <timestamp>2011-10-25T11:16:02Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ceci est une propriété de type [[Has type::String|Champ (''String'')]]&quot;</comment>
+      <text xml:space="preserve" bytes="72">Ceci est une propriété de type [[Has type::String|Champ (''String'')]]</text>
+      <sha1>rqnwfvnnisv671vf2wnxgj4rho2gpa2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Abbreviation</title>
+    <ns>102</ns>
+    <id>7069</id>
+    <revision>
+      <id>30456</id>
+      <parentid>30447</parentid>
+      <timestamp>2013-10-15T08:33:49Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>I do not think that an abbreviation should be of type page. Rather use extension Semantic Glossary.</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Text]].</text>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Allows value</title>
+    <ns>102</ns>
+    <id>73</id>
+    <revision>
+      <id>16880</id>
+      <parentid>16367</parentid>
+      <timestamp>2012-03-21T22:27:39Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>add</comment>
+      <text xml:space="preserve" bytes="249">This is the page of [[Help:Special properties|special property]] '''Allows value'''. It lists all properties using this special property. See the help page [[Help:Special property Allows value|Special property Allows value]] for further information.</text>
+      <sha1>4url0d2dnlkp0z8uw6y2h90c0404uuu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Area</title>
+    <ns>102</ns>
+    <id>82</id>
+    <revision>
+      <id>8604</id>
+      <parentid>8600</parentid>
+      <timestamp>2011-08-23T23:18:18Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="582">'''area''' defines the area of a region of some kind. The type of this attribute is [[has type::Quantity]].
+
+* [[Corresponds to::1 km²]]
+* [[Corresponds to::0.3861 sq mi]]
+
+Below is an [[Help:Inline queries|inline query]] for cities, in order of decreasing {{PAGENAME}}. It uses &lt;tt&gt;&lt;nowiki&gt;{{PAGENAME}}&lt;/nowiki&gt;&lt;/tt&gt; rather than hardcoding &quot;Area&quot; so that it could be reused for other properties such as Population.
+
+{{#ask: [[Category:City]] [[{{PAGENAME}}::+]] 
+| ?{{PAGENAME}}
+| link=all | limit=30 | sort={{PAGENAME}} | order=desc | mainlabel=City
+}}
+
+[[Category:Sample pages]]</text>
+      <sha1>592xmh7j8b5oyy98cohmeelpdv9pw9t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Average rainy days</title>
+    <ns>102</ns>
+    <id>1271</id>
+    <revision>
+      <id>4882</id>
+      <parentid>4878</parentid>
+      <timestamp>2010-11-18T07:22:42Z</timestamp>
+      <contributor>
+        <username>Patrick Nagel</username>
+        <id>466</id>
+      </contributor>
+      <text xml:space="preserve" bytes="119">The [[Has type::number]] of days it rains (on average) in one year. To be used in city pages.
+[[Category:sample pages]]</text>
+      <sha1>6pqrfg98fbnxzwy1jmfn43e5w7ivfsu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Capital of</title>
+    <ns>102</ns>
+    <id>195</id>
+    <revision>
+      <id>24324</id>
+      <parentid>3974</parentid>
+      <timestamp>2012-11-06T20:55:43Z</timestamp>
+      <contributor>
+        <username>Wingoli</username>
+        <id>1662</id>
+      </contributor>
+      <text xml:space="preserve" bytes="133">The property assumes its object has a [[has type::Page]] in this wiki.
+It is a Subproperty of [[Subproperty of::Property:located in]]</text>
+      <sha1>8hh2cfahzq83lg0zmymgy462o0ybt4x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Category count</title>
+    <ns>102</ns>
+    <id>1235</id>
+    <revision>
+      <id>4700</id>
+      <timestamp>2010-11-04T18:27:51Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;A property to count the [[has type::number]] of categories on a wiki site, e.g. for a [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="108">A property to count the [[has type::number]] of categories on a wiki site, e.g. for a [[Wiki of the Month]].</text>
+      <sha1>2kcdbbcue9p8due30ratw2yfta1a7ea</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Corresponds to</title>
+    <ns>102</ns>
+    <id>74</id>
+    <revision>
+      <id>16881</id>
+      <parentid>16872</parentid>
+      <timestamp>2012-03-21T22:28:09Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>add</comment>
+      <text xml:space="preserve" bytes="255">This is the page of [[Help:Special properties|special property]] '''Corresponds to'''. It lists all properties using this special property. See the help page [[Help:Special property Corresponds to|Special property Corresponds to]] for further information.</text>
+      <sha1>ippanb977qyc4obew2rvyche1u2c4j2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Country</title>
+    <ns>102</ns>
+    <id>4294</id>
+    <revision>
+      <id>21256</id>
+      <timestamp>2012-08-26T10:14:47Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Cover image</title>
+    <ns>102</ns>
+    <id>2201</id>
+    <revision>
+      <id>9536</id>
+      <timestamp>2011-09-23T10:21:51Z</timestamp>
+      <contributor>
+        <username>Markus Krötzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;Property used to store a relation to the &quot;main&quot; image the can be used to represent a page in a query. It uses [[has type::Page]] with values in the Image namespace.&quot;</comment>
+      <text xml:space="preserve" bytes="164">Property used to store a relation to the &quot;main&quot; image the can be used to represent a page in a query. It uses [[has type::Page]] with values in the Image namespace.</text>
+      <sha1>r96gc9rlmjqpkpq064pkan1qizbmme0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Covers extension</title>
+    <ns>102</ns>
+    <id>515</id>
+    <revision>
+      <id>2003</id>
+      <parentid>2002</parentid>
+      <timestamp>2009-12-31T18:26:24Z</timestamp>
+      <contributor>
+        <username>Yaron Koren</username>
+        <id>4</id>
+      </contributor>
+      <text xml:space="preserve" bytes="468">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Semantic MediaWiki]]
+* [[Allows value::Semantic Result Formats]]
+* [[Allows value::Semantic Forms]]
+* [[Allows value::Semantic Drilldown]]
+* [[Allows value::Halo]]
+* [[Allows value::Semantic Maps]]
+* [[Allows value::Semantic Tasks]]
+* [[Allows value::Semantic Internal Objects]]
+* [[Allows value::Data Transfer]]
+* [[Allows value::Semantic Compound Queries]]</text>
+      <sha1>dzlgcdekdnyvyhebz4luiw20t1n306x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Creation date</title>
+    <ns>102</ns>
+    <id>2515</id>
+    <revision>
+      <id>17200</id>
+      <parentid>11913</parentid>
+      <timestamp>2012-03-25T18:19:34Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="247">This is the page of [[Help:Special properties|special property]] '''Creation date'''. It lists all pages using this special property. See the help page [[Help:Special property Creation date|Special property Creation date]] for further information.</text>
+      <sha1>oir4psj4mbkl67sl9matucu1mjh0qtg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Description</title>
+    <ns>102</ns>
+    <id>1555</id>
+    <revision>
+      <id>5982</id>
+      <timestamp>2011-04-07T15:41:47Z</timestamp>
+      <contributor>
+        <username>Dick6809</username>
+        <id>645</id>
+      </contributor>
+      <comment>Initial release</comment>
+      <text xml:space="preserve" bytes="1055">This property [[description::describes a short descripton of a page.]]
+The type of this property is &quot;[[has type::text]].&quot;
+
+Usually this property is annotated by the [[Help:Semantic templates|semantic template]] &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Docinfo|docinfo]]&lt;nowiki&gt;}}&lt;/nowiki&gt; automatically.  Also the value of this property can be quoted easily by using a template &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Documentation desc|documentation desc]]&lt;nowiki&gt;}}&lt;/nowiki&gt;.  Please see the documentation of these templates for detailed information.
+
+At the moment, all annotations including this property are ingored in some namespace, e.g. Template:, due to a site cofiguration [[Help:Configuration#smwgNamespacesWithSemanticLinks|$smwgNamespacesWithSemanticLinks]].  In order to work around this problem, an alternative method to define tempalte descriptions are prepared by using template &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Documentation desctext|documentation desctext]]&lt;nowiki&gt;}}&lt;/nowiki&gt;.  Please see [[Template:Documentation desctext]] doumentation for more information.</text>
+      <sha1>0k8nztw8np49l87dmf3g1vryfpw9bem</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Description of wiki</title>
+    <ns>102</ns>
+    <id>2257</id>
+    <revision>
+      <id>10186</id>
+      <timestamp>2011-10-02T08:46:36Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Text]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Text]].</text>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Disatisfied</title>
+    <ns>102</ns>
+    <id>4083</id>
+    <revision>
+      <id>20246</id>
+      <timestamp>2012-08-08T15:34:21Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="123">This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].</text>
+      <sha1>61bkp8zo8y28z3paqsv5i88n1vunnvx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Display units</title>
+    <ns>102</ns>
+    <id>75</id>
+    <revision>
+      <id>17231</id>
+      <parentid>16135</parentid>
+      <timestamp>2012-03-25T22:07:24Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="252">This is the page of [[Help:Special properties|special property]] '''Display units'''. It lists all properties using this special property. See the help page [[Help:Special property Display units|Special property Display units]] for further information.</text>
+      <sha1>m0l4t3rvgsqrc5alb7mmxjxpqjjk95a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo author</title>
+    <ns>102</ns>
+    <id>1600</id>
+    <revision>
+      <id>8251</id>
+      <parentid>6035</parentid>
+      <timestamp>2011-08-12T11:32:40Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="133">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::page]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>mv7h6sug60acpvnra2wtwwulj6bulsq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo category</title>
+    <ns>102</ns>
+    <id>1598</id>
+    <revision>
+      <id>8249</id>
+      <parentid>6033</parentid>
+      <timestamp>2011-08-12T11:31:56Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="133">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::page]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>mv7h6sug60acpvnra2wtwwulj6bulsq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo editor</title>
+    <ns>102</ns>
+    <id>1601</id>
+    <revision>
+      <id>8250</id>
+      <parentid>6036</parentid>
+      <timestamp>2011-08-12T11:32:22Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="133">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::page]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>mv7h6sug60acpvnra2wtwwulj6bulsq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo language</title>
+    <ns>102</ns>
+    <id>1637</id>
+    <revision>
+      <id>11838</id>
+      <parentid>8252</parentid>
+      <timestamp>2011-12-02T22:28:51Z</timestamp>
+      <contributor>
+        <username>Amglez</username>
+        <id>1118</id>
+      </contributor>
+      <text xml:space="preserve" bytes="136">This property {{#show:{{FULLPAGENAME}}|?description}}
+
+The type of this property is [[has type::string]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>7gv89lz8weu6a19a19n7qxrtctkc7py</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo master page</title>
+    <ns>102</ns>
+    <id>1594</id>
+    <revision>
+      <id>8253</id>
+      <parentid>6029</parentid>
+      <timestamp>2011-08-12T11:33:21Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="133">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::page]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>mv7h6sug60acpvnra2wtwwulj6bulsq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo master rev</title>
+    <ns>102</ns>
+    <id>1595</id>
+    <revision>
+      <id>8254</id>
+      <parentid>6030</parentid>
+      <timestamp>2011-08-12T11:33:40Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="135">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::number]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>54pb87o0lzl3wapyj7w6ib5bj3wvz3m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo priority</title>
+    <ns>102</ns>
+    <id>1599</id>
+    <revision>
+      <id>8255</id>
+      <parentid>6128</parentid>
+      <timestamp>2011-08-12T11:34:03Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="449">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::number]]. Allowed values are:
+{| class=&quot;wikitable&quot;
+!Value
+!Description
+|-
+| style=&quot;text-align:center&quot;| [[allows value::1]]
+| top or urgent.
+|-
+| style=&quot;text-align:center&quot;| [[allows value::2]]
+| high.
+|-
+| style=&quot;text-align:center&quot;| [[allows value::3]]
+| normal.
+|-
+| style=&quot;text-align:center&quot;| [[allows value::4]]
+| low.
+|}
+
+[[Category:Docinfo property]]</text>
+      <sha1>3wjvbk8jd5bwthtdpcht6p273a96t18</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo progress</title>
+    <ns>102</ns>
+    <id>1597</id>
+    <revision>
+      <id>8256</id>
+      <parentid>6129</parentid>
+      <timestamp>2011-08-12T11:34:23Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="615">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::number]]. Allowed values are:
+{| class=&quot;wikitable&quot;
+!Value
+!Description
+|-
+| style=&quot;text-align:center&quot;| [[allows value::100]]
+| Completed.
+|-
+| style=&quot;text-align:center&quot;| [[allows value::95]]
+| Almost completed or assumed that it is completed.
+|-
+| style=&quot;text-align:center&quot;| [[allows value::75]]
+|
+|-
+| style=&quot;text-align:center&quot;| [[allows value::50]]
+| In progress.
+|-
+| style=&quot;text-align:center&quot;| [[allows value::25]]
+|
+|-
+| style=&quot;text-align:center&quot;| [[allows value::0]]
+| Just started
+|}
+[[Category:Docinfo property]]</text>
+      <sha1>po6twg5s6kp219m686e2qkzdfb8vhqo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo status</title>
+    <ns>102</ns>
+    <id>1596</id>
+    <revision>
+      <id>8257</id>
+      <parentid>6031</parentid>
+      <timestamp>2011-08-12T11:34:44Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="135">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::string]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>aa15g0529wj815ghs1se4sg2lznj9xx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Docinfo support</title>
+    <ns>102</ns>
+    <id>1602</id>
+    <revision>
+      <id>8258</id>
+      <parentid>6037</parentid>
+      <timestamp>2011-08-12T11:35:04Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="133">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::page]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>mv7h6sug60acpvnra2wtwwulj6bulsq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Download URL</title>
+    <ns>102</ns>
+    <id>4994</id>
+    <revision>
+      <id>23890</id>
+      <timestamp>2012-10-26T08:42:16Z</timestamp>
+      <contributor>
+        <username>Markus Krötzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>property for lightning talk demo</comment>
+      <text xml:space="preserve" bytes="228">This property holds the [[has type::URL]] of some resource that can be downloaded. It is used for the demonstration on [[SMWCon_Fall_2012/Customizing_MediaWiki_skin_actions_with_SMW|Customizing MediaWiki skin actions with SMW]].</text>
+      <sha1>oueuzpgfl3acm8ev6uuxkqd7grp4ou9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Equivalent URI</title>
+    <ns>102</ns>
+    <id>58</id>
+    <revision>
+      <id>16901</id>
+      <parentid>10157</parentid>
+      <timestamp>2012-03-21T23:53:02Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="250">This is the page of [[Help:Special properties|special property]] '''Equivalent URI'''. It lists all pages using this special property. See the help page [[Help:Special property Equivalent URI|Special property Equivalent URI]] for further information.</text>
+      <sha1>0kqz0bltrjqewrx4v0qr84fcc6yy9rc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Form count</title>
+    <ns>102</ns>
+    <id>1236</id>
+    <revision>
+      <id>4701</id>
+      <timestamp>2010-11-04T18:28:06Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;A property to count the [[has type::number]] of [[Semantic Forms]] on a wiki site, e.g. for a [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="116">A property to count the [[has type::number]] of [[Semantic Forms]] on a wiki site, e.g. for a [[Wiki of the Month]].</text>
+      <sha1>7pfzd9m9kma51hna4oqveovxxzp3u7k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:From version</title>
+    <ns>102</ns>
+    <id>136</id>
+    <revision>
+      <id>649</id>
+      <timestamp>2008-02-28T18:08:42Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>property for versioning of the docu</comment>
+      <text xml:space="preserve" bytes="237">This property defines the '''earliest software version''' for that a given documentation page is a valid description. It is currently a simple [[has type::string]] but should probably be something more elaborate to enable proper sorting.</text>
+      <sha1>twcji3tbeddx2n7ypx3sd9kh50fnsgb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has GDP (nominal)</title>
+    <ns>102</ns>
+    <id>3984</id>
+    <revision>
+      <id>19574</id>
+      <timestamp>2012-07-26T22:20:21Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::number]]</text>
+      <sha1>h6mevl4yo3aw5jqi72r0gryfyi4dloa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has URL</title>
+    <ns>102</ns>
+    <id>3090</id>
+    <revision>
+      <id>14747</id>
+      <timestamp>2012-02-28T17:25:10Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::URL]].&quot;</comment>
+      <text xml:space="preserve" bytes="45">This is a property of type [[Has type::URL]].</text>
+      <sha1>om5vtlgywfhwdo7r68vhwc1zmggd94i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has aa</title>
+    <ns>102</ns>
+    <id>6125</id>
+    <revision>
+      <id>27197</id>
+      <timestamp>2013-04-18T05:10:44Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has area of usage</title>
+    <ns>102</ns>
+    <id>2919</id>
+    <revision>
+      <id>17307</id>
+      <parentid>13514</parentid>
+      <timestamp>2012-03-28T13:11:43Z</timestamp>
+      <contributor>
+        <username>Linforest</username>
+        <id>1188</id>
+      </contributor>
+      <comment>Added Chinese values</comment>
+      <text xml:space="preserve" bytes="1249">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::Adding and modifying data]]
+* [[Allows value::Searching and browsing data]]
+* [[Allows value::Displaying data]]
+* [[Allows value::Storing additional data]]
+* [[Allows value::Storing data via an RDF triplestore]]
+* [[Allows value::Protecting data]]
+* [[Allows value::Awareness and workflow]]
+* [[Allows value::Importing data]]
+* [[Allows value::Other area of usage]]
+* [[Allows value::Daten hinzufügen und ändern]]
+* [[Allows value::Daten suchen und durchsuchen]]
+* [[Allows value::Daten anzeigen]]
+* [[Allows value::Zusätzliche Daten speichern]]
+* [[Allows value::Daten via den RDF-Triplestore speichern]]
+* [[Allows value::Daten schützen]]
+* [[Allows value::Wahrnehmung und Arbeitsablauf]]
+* [[Allows value::Daten importieren]]
+* [[Allows value::Sonstiger Anwendungbereich]]
+* [[Allows value::添加及修改数据]]
+* [[Allows value::搜索及浏览数据]]
+* [[Allows value::显示数据]]
+* [[Allows value::存储额外的数据]]
+* [[Allows value::利用RDF三元组存储来存储数据]]
+* [[Allows value::保护数据]]
+* [[Allows value::感知与工作流程]]
+* [[Allows value::导入数据]]
+* [[Allows value::其他用途]]</text>
+      <sha1>ozebvrdhzva358wz9kd11rfcz1omkfu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has attendee</title>
+    <ns>102</ns>
+    <id>4130</id>
+    <revision>
+      <id>20577</id>
+      <timestamp>2012-08-13T19:57:36Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::Page]]&quot;</comment>
+      <text xml:space="preserve" bytes="18">[[Has type::Page]]</text>
+      <sha1>byqsaznmj8muv1x9qm7hky0dlasesr9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has audience type</title>
+    <ns>102</ns>
+    <id>4134</id>
+    <revision>
+      <id>29511</id>
+      <parentid>24141</parentid>
+      <timestamp>2013-09-11T15:59:53Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>pls do not get me wrong</comment>
+      <text xml:space="preserve" bytes="285">This property is of type [[Has type::string]].
+
+It accepts these values:
+* [[Allows value::Everyone]]
+* [[Allows value::Developers]]
+* [[Allows value::Community]]
+* [[Allows value::Business people]]
+* [[Allows value::Academics]]
+* [[Allows value::Admins]]
+* [[Allows value::New users]]</text>
+      <sha1>ii2wz4gmp199h6qqu0i46rqaehpwbzp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has author</title>
+    <ns>102</ns>
+    <id>1876</id>
+    <revision>
+      <id>7511</id>
+      <timestamp>2011-07-24T22:49:10Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <minor/>
+      <comment>Created page with &quot;This property is of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="44">This property is of type [[Has type::Page]].</text>
+      <sha1>pod6bhquclqluvq6mx2x40lhrltf3nj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has bb</title>
+    <ns>102</ns>
+    <id>6126</id>
+    <revision>
+      <id>27198</id>
+      <timestamp>2013-04-18T05:11:06Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has birthdate</title>
+    <ns>102</ns>
+    <id>3119</id>
+    <revision>
+      <id>14906</id>
+      <timestamp>2012-03-02T01:05:25Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Date]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Date]].</text>
+      <sha1>9mgrgetkvo2j5ek3mccsi459e034o4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has caption</title>
+    <ns>102</ns>
+    <id>3085</id>
+    <revision>
+      <id>14729</id>
+      <timestamp>2012-02-28T16:57:06Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has captionproperty (string)</title>
+    <ns>102</ns>
+    <id>5621</id>
+    <revision>
+      <id>25780</id>
+      <timestamp>2013-01-23T00:13:13Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::String]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::String]]</text>
+      <sha1>5sjgyxh233abn9tfe2h4s0ob1071v8z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has category</title>
+    <ns>102</ns>
+    <id>1872</id>
+    <revision>
+      <id>7482</id>
+      <timestamp>2011-07-24T17:40:50Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has cc</title>
+    <ns>102</ns>
+    <id>6127</id>
+    <revision>
+      <id>27199</id>
+      <timestamp>2013-04-18T05:11:10Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has component</title>
+    <ns>102</ns>
+    <id>1873</id>
+    <revision>
+      <id>8976</id>
+      <parentid>8975</parentid>
+      <timestamp>2011-09-03T16:19:02Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has conference</title>
+    <ns>102</ns>
+    <id>4128</id>
+    <revision>
+      <id>20575</id>
+      <timestamp>2012-08-13T19:57:00Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::Page]]&quot;</comment>
+      <text xml:space="preserve" bytes="18">[[Has type::Page]]</text>
+      <sha1>byqsaznmj8muv1x9qm7hky0dlasesr9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has conference type</title>
+    <ns>102</ns>
+    <id>6450</id>
+    <revision>
+      <id>28185</id>
+      <timestamp>2013-07-02T12:54:33Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has configuration</title>
+    <ns>102</ns>
+    <id>3804</id>
+    <revision>
+      <id>18694</id>
+      <timestamp>2012-06-25T16:48:33Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::String]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::String]]</text>
+      <sha1>5sjgyxh233abn9tfe2h4s0ob1071v8z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has configuration parameter name</title>
+    <ns>102</ns>
+    <id>3512</id>
+    <revision>
+      <id>17184</id>
+      <timestamp>2012-03-25T17:15:45Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has contact</title>
+    <ns>102</ns>
+    <id>4293</id>
+    <revision>
+      <id>21255</id>
+      <timestamp>2012-08-26T10:13:57Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has coordinates</title>
+    <ns>102</ns>
+    <id>4532</id>
+    <revision>
+      <id>22366</id>
+      <parentid>22142</parentid>
+      <timestamp>2012-09-30T19:50:52Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <minor/>
+      <comment>add</comment>
+      <text xml:space="preserve" bytes="339">This attribute describes the [[Has type::Geographic coordinate|geographic coordinate]] of some place. If a page contains a property with this attribute, then the page's factbox will also provide links to [[Provides service::online maps|online maps]]; this uses SMW's [[Help:Service links|service links]] feature.
+
+[[Category:Sample pages]]</text>
+      <sha1>14i8gyvdl0wzbug6um0eolo0jghemp6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has datatype name</title>
+    <ns>102</ns>
+    <id>2163</id>
+    <revision>
+      <id>9318</id>
+      <timestamp>2011-09-17T18:36:49Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="46">This property is of type [[Has type::String]].</text>
+      <sha1>id9uegwfyv6jg9zmcgp2bwyer11sqy5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has date</title>
+    <ns>102</ns>
+    <id>678</id>
+    <revision>
+      <id>2686</id>
+      <timestamp>2010-05-26T21:53:07Z</timestamp>
+      <contributor>
+        <username>Dan Bolser</username>
+        <id>20</id>
+      </contributor>
+      <comment>yes!</comment>
+      <text xml:space="preserve" bytes="18">[[Has type::Date]]</text>
+      <sha1>g68g5qjl2p76elehbi4g6k8nlz5jtpq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has dd</title>
+    <ns>102</ns>
+    <id>6128</id>
+    <revision>
+      <id>27200</id>
+      <timestamp>2013-04-18T05:11:13Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has default</title>
+    <ns>102</ns>
+    <id>3788</id>
+    <revision>
+      <id>18640</id>
+      <timestamp>2012-06-25T03:15:47Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[has type::string]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[has type::string]]</text>
+      <sha1>ksacykf5dn17siw6gly75jj7754377b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has description</title>
+    <ns>102</ns>
+    <id>1856</id>
+    <revision>
+      <id>23299</id>
+      <parentid>7430</parentid>
+      <timestamp>2012-10-17T18:11:30Z</timestamp>
+      <contributor>
+        <username>Danwe</username>
+        <id>1058</id>
+      </contributor>
+      <comment>Change this to text to allow links</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Text]].</text>
+      <sha1>e9l4lxsaidmyd6062gydncspht400ia</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has development status</title>
+    <ns>102</ns>
+    <id>2917</id>
+    <revision>
+      <id>17338</id>
+      <parentid>13470</parentid>
+      <timestamp>2012-03-28T14:45:19Z</timestamp>
+      <contributor>
+        <username>Linforest</username>
+        <id>1188</id>
+      </contributor>
+      <text xml:space="preserve" bytes="436">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::active]]
+* [[Allows value::discontinued]]
+* [[Allows value::abandoned]]
+* [[Allows value::unknown]]
+* [[Allows value::aktiv]]
+* [[Allows value::eingestellt]]
+* [[Allows value::aufgegeben]]
+* [[Allows value::unbekannt]]
+* [[Allows value::活跃]]
+* [[Allows value::中断]]
+* [[Allows value::废弃]]
+* [[Allows value::未知]]</text>
+      <sha1>mwkiz9cywdf2gu4z33dk06651p6e6p9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has distance</title>
+    <ns>102</ns>
+    <id>4215</id>
+    <revision>
+      <id>20877</id>
+      <timestamp>2012-08-19T12:09:08Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property used by [[Demo:Jqplotseries/Scatter plot]] and is of type [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="98">This is a property used by [[Demo:Jqplotseries/Scatter plot]] and is of type [[has type::number]].</text>
+      <sha1>bb2b8l47fb2f9ml7j5sm3zpsi76y530</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has download URL</title>
+    <ns>102</ns>
+    <id>3131</id>
+    <revision>
+      <id>15046</id>
+      <timestamp>2012-03-03T13:00:22Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::URL]].&quot;</comment>
+      <text xml:space="preserve" bytes="45">This is a property of type [[Has type::URL]].</text>
+      <sha1>om5vtlgywfhwdo7r68vhwc1zmggd94i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has duration</title>
+    <ns>102</ns>
+    <id>4135</id>
+    <revision>
+      <id>20597</id>
+      <timestamp>2012-08-13T20:25:07Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This property is of type [[Has type::string]]&quot;</comment>
+      <text xml:space="preserve" bytes="45">This property is of type [[Has type::string]]</text>
+      <sha1>i1a37pbit56im8alqbog8mnmfssot3n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has ee</title>
+    <ns>102</ns>
+    <id>6129</id>
+    <revision>
+      <id>27201</id>
+      <timestamp>2013-04-18T05:11:16Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has email address</title>
+    <ns>102</ns>
+    <id>3481</id>
+    <revision>
+      <id>17012</id>
+      <timestamp>2012-03-23T08:39:23Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Email]].&quot;</comment>
+      <text xml:space="preserve" bytes="47">This is a property of type [[Has type::Email]].</text>
+      <sha1>exzr75bcppvbrao1fwl2ozsn64zfgin</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event</title>
+    <ns>102</ns>
+    <id>4413</id>
+    <revision>
+      <id>21691</id>
+      <timestamp>2012-09-16T04:27:31Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="90">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].</text>
+      <sha1>edpjz7djnr6ju2iwlfhdrbmntdi89f1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event color</title>
+    <ns>102</ns>
+    <id>4414</id>
+    <revision>
+      <id>21692</id>
+      <timestamp>2012-09-16T04:27:42Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="90">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].</text>
+      <sha1>edpjz7djnr6ju2iwlfhdrbmntdi89f1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event description</title>
+    <ns>102</ns>
+    <id>4420</id>
+    <revision>
+      <id>21698</id>
+      <timestamp>2012-09-16T04:29:39Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::text]].&quot;</comment>
+      <text xml:space="preserve" bytes="88">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::text]].</text>
+      <sha1>hdlha87ijl6klexkdbo4oprtyvex9vz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event end</title>
+    <ns>102</ns>
+    <id>4415</id>
+    <revision>
+      <id>21693</id>
+      <timestamp>2012-09-16T04:28:05Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::date]].&quot;</comment>
+      <text xml:space="preserve" bytes="88">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::date]].</text>
+      <sha1>oysdfczfza1rjnspyr7eibnuigbrrtc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event icon</title>
+    <ns>102</ns>
+    <id>4416</id>
+    <revision>
+      <id>21694</id>
+      <timestamp>2012-09-16T04:28:18Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::page]].&quot;</comment>
+      <text xml:space="preserve" bytes="88">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::page]].</text>
+      <sha1>dx2yywftp6fci6c7tingedibiwdbj6j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event location</title>
+    <ns>102</ns>
+    <id>4417</id>
+    <revision>
+      <id>21695</id>
+      <timestamp>2012-09-16T04:28:51Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="90">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].</text>
+      <sha1>edpjz7djnr6ju2iwlfhdrbmntdi89f1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event start</title>
+    <ns>102</ns>
+    <id>4418</id>
+    <revision>
+      <id>21696</id>
+      <timestamp>2012-09-16T04:28:58Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::date]].&quot;</comment>
+      <text xml:space="preserve" bytes="88">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::date]].</text>
+      <sha1>oysdfczfza1rjnspyr7eibnuigbrrtc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has event type</title>
+    <ns>102</ns>
+    <id>4419</id>
+    <revision>
+      <id>21697</id>
+      <timestamp>2012-09-16T04:29:20Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="90">This property belongs to [[Demo:Event calendar]] and is specified as [[has type::string]].</text>
+      <sha1>edpjz7djnr6ju2iwlfhdrbmntdi89f1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has example</title>
+    <ns>102</ns>
+    <id>5076</id>
+    <revision>
+      <id>24160</id>
+      <timestamp>2012-10-31T09:25:01Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has example visibility</title>
+    <ns>102</ns>
+    <id>4214</id>
+    <revision>
+      <id>20864</id>
+      <timestamp>2012-08-18T00:06:17Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[has type::string]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[has type::string]]</text>
+      <sha1>ksacykf5dn17siw6gly75jj7754377b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has ff</title>
+    <ns>102</ns>
+    <id>6130</id>
+    <revision>
+      <id>27202</id>
+      <timestamp>2013-04-18T05:11:21Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has fields</title>
+    <ns>102</ns>
+    <id>557</id>
+    <revision>
+      <id>16882</id>
+      <parentid>16879</parentid>
+      <timestamp>2012-03-21T22:28:32Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="243">This is the page of [[Help:Special properties|special property]] '''Has fields'''. It lists all properties using this special property. See the help page [[Help:Special property Has fields|Special property Has fields]] for further information.</text>
+      <sha1>clvjwi78phuu86rf5hafiuxb2y3l27p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has first price</title>
+    <ns>102</ns>
+    <id>4195</id>
+    <revision>
+      <id>20808</id>
+      <timestamp>2012-08-16T17:06:37Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This is property used by [[Demo:Jqplotseries/Scatter plot]] and is of type [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="96">This is property used by [[Demo:Jqplotseries/Scatter plot]] and is of type [[has type::number]].</text>
+      <sha1>o47fmozjax1a20a0dr9t6pso3dbdb50</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has format name</title>
+    <ns>102</ns>
+    <id>1875</id>
+    <revision>
+      <id>7510</id>
+      <timestamp>2011-07-24T22:49:04Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <minor/>
+      <comment>Created page with &quot;This property is of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This property is of type [[Has type::String]].</text>
+      <sha1>id9uegwfyv6jg9zmcgp2bwyer11sqy5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has further requirements</title>
+    <ns>102</ns>
+    <id>1871</id>
+    <revision>
+      <id>7481</id>
+      <timestamp>2011-07-24T17:40:48Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has general chair</title>
+    <ns>102</ns>
+    <id>6451</id>
+    <revision>
+      <id>28186</id>
+      <timestamp>2013-07-02T12:54:59Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has gg</title>
+    <ns>102</ns>
+    <id>6131</id>
+    <revision>
+      <id>27203</id>
+      <timestamp>2013-04-18T05:11:25Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="71">This page belongs to [[Demo:Jqplot aggregatable]]. [[Has type::number]]</text>
+      <sha1>mt6b6dy49rm5f4vgnrodki5y0ac1vbt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has highlights</title>
+    <ns>102</ns>
+    <id>4174</id>
+    <revision>
+      <id>20734</id>
+      <timestamp>2012-08-16T00:12:27Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has homepage</title>
+    <ns>102</ns>
+    <id>1738</id>
+    <revision>
+      <id>6546</id>
+      <timestamp>2011-05-23T10:52:51Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <minor/>
+      <comment>Created page with &quot;[[Has type::URL]]&quot;</comment>
+      <text xml:space="preserve" bytes="17">[[Has type::URL]]</text>
+      <sha1>1phk8nxscoha60mi2zpgygxdfu4y84v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has hook</title>
+    <ns>102</ns>
+    <id>5108</id>
+    <revision>
+      <id>24249</id>
+      <timestamp>2012-11-02T04:02:44Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::Text]]&quot;</comment>
+      <text xml:space="preserve" bytes="18">[[Has type::Text]]</text>
+      <sha1>2ihgjxmzwp9ljxkggla6zi92bdkc6ts</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has image</title>
+    <ns>102</ns>
+    <id>3089</id>
+    <revision>
+      <id>14746</id>
+      <timestamp>2012-02-28T17:20:05Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has image collection</title>
+    <ns>102</ns>
+    <id>4003</id>
+    <revision>
+      <id>19661</id>
+      <timestamp>2012-07-27T22:59:43Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has improper value for</title>
+    <ns>102</ns>
+    <id>483</id>
+    <revision>
+      <id>16884</id>
+      <parentid>16883</parentid>
+      <timestamp>2012-03-21T22:29:35Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="274">This is the page of [[Help:Special properties|special property]] '''Has improper value for'''. It lists all pages using this special property. See the help page [[Help:Special property Has improper value for|Special property Has improper value for]] for further information.</text>
+      <sha1>16eb0g5mbwqtf3npfpre99dqy4m2h5w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has keyword</title>
+    <ns>102</ns>
+    <id>4369</id>
+    <revision>
+      <id>21538</id>
+      <timestamp>2012-09-04T23:02:29Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has label</title>
+    <ns>102</ns>
+    <id>4075</id>
+    <revision>
+      <id>20181</id>
+      <timestamp>2012-08-07T16:14:28Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;The property belongs to a demo and is of type [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="67">The property belongs to a demo and is of type [[has type::string]].</text>
+      <sha1>rqfpdzcsuei9n5vi0x9cbtegqbvo65q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has license</title>
+    <ns>102</ns>
+    <id>3088</id>
+    <revision>
+      <id>14741</id>
+      <timestamp>2012-02-28T17:10:49Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has local chair</title>
+    <ns>102</ns>
+    <id>6452</id>
+    <revision>
+      <id>28187</id>
+      <timestamp>2013-07-02T12:55:12Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has location</title>
+    <ns>102</ns>
+    <id>5371</id>
+    <revision>
+      <id>25001</id>
+      <timestamp>2012-12-11T01:29:39Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has location type</title>
+    <ns>102</ns>
+    <id>4533</id>
+    <revision>
+      <id>22143</id>
+      <timestamp>2012-09-29T19:16:00Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].   The allowed values for this property are: * [[Allows value::Continent]] * [[Allows value::Country]] * [[Allows value::State]] ...&quot;</comment>
+      <text xml:space="preserve" bytes="231">This is a property of type [[Has type::Page]]. 
+
+The allowed values for this property are:
+* [[Allows value::Continent]]
+* [[Allows value::Country]]
+* [[Allows value::State]]
+* [[Allows value::City]]
+* [[Allows value::Local place]]</text>
+      <sha1>m5yikloy64pocsao8i18b5poe1vzx0s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has maintainer</title>
+    <ns>102</ns>
+    <id>1739</id>
+    <revision>
+      <id>6547</id>
+      <timestamp>2011-05-23T10:53:11Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <minor/>
+      <comment>Created page with &quot;[[Has type::Page]]&quot;</comment>
+      <text xml:space="preserve" bytes="18">[[Has type::Page]]</text>
+      <sha1>byqsaznmj8muv1x9qm7hky0dlasesr9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has maintenance script name</title>
+    <ns>102</ns>
+    <id>5369</id>
+    <revision>
+      <id>24995</id>
+      <timestamp>2012-12-11T00:52:30Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has market share</title>
+    <ns>102</ns>
+    <id>4068</id>
+    <revision>
+      <id>20137</id>
+      <parentid>20109</parentid>
+      <timestamp>2012-08-07T13:48:50Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="68">This property belongs to a demo and is of type [[has type::number]].</text>
+      <sha1>gc7enq7wmyv725m88kgm86pth03bkgw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has max temperature</title>
+    <ns>102</ns>
+    <id>3968</id>
+    <revision>
+      <id>19542</id>
+      <timestamp>2012-07-26T19:35:41Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::number]]</text>
+      <sha1>h6mevl4yo3aw5jqi72r0gryfyi4dloa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has maximum version</title>
+    <ns>102</ns>
+    <id>1858</id>
+    <revision>
+      <id>7432</id>
+      <timestamp>2011-07-24T16:31:33Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has min temperature</title>
+    <ns>102</ns>
+    <id>3969</id>
+    <revision>
+      <id>19543</id>
+      <timestamp>2012-07-26T19:36:06Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::number]]</text>
+      <sha1>h6mevl4yo3aw5jqi72r0gryfyi4dloa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has minimum version</title>
+    <ns>102</ns>
+    <id>1857</id>
+    <revision>
+      <id>7431</id>
+      <timestamp>2011-07-24T16:31:02Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has name</title>
+    <ns>102</ns>
+    <id>2488</id>
+    <revision>
+      <id>13494</id>
+      <parentid>13492</parentid>
+      <timestamp>2012-02-10T21:29:21Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::String]]</text>
+      <sha1>5sjgyxh233abn9tfe2h4s0ob1071v8z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has name (zh-hans)</title>
+    <ns>102</ns>
+    <id>2976</id>
+    <revision>
+      <id>13882</id>
+      <timestamp>2012-02-15T22:54:59Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has number</title>
+    <ns>102</ns>
+    <id>3370</id>
+    <revision>
+      <id>16512</id>
+      <timestamp>2012-03-19T17:40:12Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::Number]] is part of the scenario template.&quot;</comment>
+      <text xml:space="preserve" bytes="54">[[Has type::Number]] is part of the scenario template.</text>
+      <sha1>tw5to76s6m4ouwkzuvf21ppuu6o5k0m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has number of downloads</title>
+    <ns>102</ns>
+    <id>4245</id>
+    <revision>
+      <id>21096</id>
+      <timestamp>2012-08-22T23:25:17Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Number]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::Number]].</text>
+      <sha1>id8gn0keu2a1u84x5rhv7b3oxwkgls6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has parser function</title>
+    <ns>102</ns>
+    <id>1859</id>
+    <revision>
+      <id>7433</id>
+      <timestamp>2011-07-24T16:32:00Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Boolean]].&quot;</comment>
+      <text xml:space="preserve" bytes="49">This is a property of type [[Has type::Boolean]].</text>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has path</title>
+    <ns>102</ns>
+    <id>5372</id>
+    <revision>
+      <id>25002</id>
+      <timestamp>2012-12-11T01:30:23Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has planned finish</title>
+    <ns>102</ns>
+    <id>4274</id>
+    <revision>
+      <id>21187</id>
+      <timestamp>2012-08-24T00:28:08Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Is a property of type [[Has type::date]] and being used for event management.&quot;</comment>
+      <text xml:space="preserve" bytes="77">Is a property of type [[Has type::date]] and being used for event management.</text>
+      <sha1>ruxs7weqfiuj0h1ea7yuxq325ocvdbb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has planned start</title>
+    <ns>102</ns>
+    <id>4273</id>
+    <revision>
+      <id>21186</id>
+      <timestamp>2012-08-24T00:28:04Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Is a property of type [[Has type::date]] and being used for event management.&quot;</comment>
+      <text xml:space="preserve" bytes="77">Is a property of type [[Has type::date]] and being used for event management.</text>
+      <sha1>ruxs7weqfiuj0h1ea7yuxq325ocvdbb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has posttest 1</title>
+    <ns>102</ns>
+    <id>4211</id>
+    <revision>
+      <id>20848</id>
+      <timestamp>2012-08-17T23:24:16Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].</text>
+      <sha1>e8rc82a5dfylynsyyvy5b7e2kisftop</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has posttest 2</title>
+    <ns>102</ns>
+    <id>4212</id>
+    <revision>
+      <id>20849</id>
+      <timestamp>2012-08-17T23:24:19Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].</text>
+      <sha1>e8rc82a5dfylynsyyvy5b7e2kisftop</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has posttest 3</title>
+    <ns>102</ns>
+    <id>4213</id>
+    <revision>
+      <id>20850</id>
+      <timestamp>2012-08-17T23:25:28Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].</text>
+      <sha1>e8rc82a5dfylynsyyvy5b7e2kisftop</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has presentation</title>
+    <ns>102</ns>
+    <id>4829</id>
+    <revision>
+      <id>23218</id>
+      <timestamp>2012-10-15T00:55:28Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Belongs to [[Template:Presentation]], [[has type::page]]&quot;</comment>
+      <text xml:space="preserve" bytes="56">Belongs to [[Template:Presentation]], [[has type::page]]</text>
+      <sha1>3neajhbef1fgwlmemaq3vwl1lxsxgn9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has presentation section</title>
+    <ns>102</ns>
+    <id>4830</id>
+    <revision>
+      <id>23219</id>
+      <timestamp>2012-10-15T00:55:51Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Belongs to [[Template:Presentation]], [[has type::string]]&quot;</comment>
+      <text xml:space="preserve" bytes="58">Belongs to [[Template:Presentation]], [[has type::string]]</text>
+      <sha1>lp98ovbj8zqaw1gh5k6b23bhs4wt3cq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has presentation title</title>
+    <ns>102</ns>
+    <id>4828</id>
+    <revision>
+      <id>23217</id>
+      <timestamp>2012-10-15T00:54:41Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Belongs to [[Template:Presentation]], [[has type::string]]&quot;</comment>
+      <text xml:space="preserve" bytes="58">Belongs to [[Template:Presentation]], [[has type::string]]</text>
+      <sha1>lp98ovbj8zqaw1gh5k6b23bhs4wt3cq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has pretest 1</title>
+    <ns>102</ns>
+    <id>4209</id>
+    <revision>
+      <id>20846</id>
+      <timestamp>2012-08-17T23:24:09Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].</text>
+      <sha1>e8rc82a5dfylynsyyvy5b7e2kisftop</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has pretest 2</title>
+    <ns>102</ns>
+    <id>4210</id>
+    <revision>
+      <id>20847</id>
+      <timestamp>2012-08-17T23:24:12Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].</text>
+      <sha1>e8rc82a5dfylynsyyvy5b7e2kisftop</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has price (average)</title>
+    <ns>102</ns>
+    <id>4069</id>
+    <revision>
+      <id>20138</id>
+      <parentid>20110</parentid>
+      <timestamp>2012-08-07T13:48:54Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="68">This property belongs to a demo and is of type [[has type::number]].</text>
+      <sha1>gc7enq7wmyv725m88kgm86pth03bkgw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has printer format</title>
+    <ns>102</ns>
+    <id>4291</id>
+    <revision>
+      <id>21253</id>
+      <timestamp>2012-08-26T10:10:42Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has products</title>
+    <ns>102</ns>
+    <id>4070</id>
+    <revision>
+      <id>20139</id>
+      <parentid>20111</parentid>
+      <timestamp>2012-08-07T13:48:58Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="68">This property belongs to a demo and is of type [[has type::number]].</text>
+      <sha1>gc7enq7wmyv725m88kgm86pth03bkgw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has program chair</title>
+    <ns>102</ns>
+    <id>6453</id>
+    <revision>
+      <id>28188</id>
+      <timestamp>2013-07-02T12:55:23Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has query</title>
+    <ns>102</ns>
+    <id>5258</id>
+    <revision>
+      <id>24590</id>
+      <timestamp>2012-11-24T23:13:33Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="235">This is the page of [[Help:Special properties|special property]] '''Has query'''. It lists all pages using this special property. See the help page [[Help:Special property Has query|Special property Has query]] for further information.</text>
+      <sha1>0f8lxrlds3z9nu1efbh2l9qja7oyxfa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has rainfall</title>
+    <ns>102</ns>
+    <id>3971</id>
+    <revision>
+      <id>19545</id>
+      <timestamp>2012-07-26T19:36:07Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::number]]</text>
+      <sha1>h6mevl4yo3aw5jqi72r0gryfyi4dloa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has redirect</title>
+    <ns>102</ns>
+    <id>4098</id>
+    <revision>
+      <id>20395</id>
+      <timestamp>2012-08-09T00:07:50Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used in images to redirect to a specific target page. [[has type::page]]&quot;</comment>
+      <text xml:space="preserve" bytes="89">This property is used in images to redirect to a specific target page. [[has type::page]]</text>
+      <sha1>12nhrrcwsmdkdk25mmaw6u08383i2mp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has release date</title>
+    <ns>102</ns>
+    <id>3120</id>
+    <revision>
+      <id>14909</id>
+      <timestamp>2012-03-02T01:09:52Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Date]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Date]].</text>
+      <sha1>9mgrgetkvo2j5ek3mccsi459e034o4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has release status</title>
+    <ns>102</ns>
+    <id>2916</id>
+    <revision>
+      <id>13469</id>
+      <parentid>13428</parentid>
+      <timestamp>2012-02-10T19:19:22Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>add de</comment>
+      <text xml:space="preserve" bytes="378">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::stable]]
+* [[Allows value::beta]]
+* [[Allows value::experimental]]
+* [[Allows value::unstable]]
+* [[Allows value::unknown]]
+* [[Allows value::stabil]]
+* [[Allows value::beta]]
+* [[Allows value::experimentell]]
+* [[Allows value::instable]]
+* [[Allows value::unbekannt]]</text>
+      <sha1>silp4xpaqfv731j9mlq4lcbqpfyd1nv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has revenue</title>
+    <ns>102</ns>
+    <id>4071</id>
+    <revision>
+      <id>20136</id>
+      <parentid>20124</parentid>
+      <timestamp>2012-08-07T13:48:20Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="68">This property belongs to a demo and is of type [[has type::number]].</text>
+      <sha1>gc7enq7wmyv725m88kgm86pth03bkgw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has second price</title>
+    <ns>102</ns>
+    <id>4196</id>
+    <revision>
+      <id>20809</id>
+      <timestamp>2012-08-16T17:06:48Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This is property used by [[Demo:Jqplotseries/Scatter plot]] and is of type [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="96">This is property used by [[Demo:Jqplotseries/Scatter plot]] and is of type [[has type::number]].</text>
+      <sha1>o47fmozjax1a20a0dr9t6pso3dbdb50</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has seismic activity</title>
+    <ns>102</ns>
+    <id>4027</id>
+    <revision>
+      <id>19856</id>
+      <timestamp>2012-08-01T00:25:19Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is a [[has type::number]] and part of a demo data set.&quot;</comment>
+      <text xml:space="preserve" bytes="68">This property is a [[has type::number]] and part of a demo data set.</text>
+      <sha1>6boxkykdoe6rdk5y3ljkjhx23osnlce</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has series</title>
+    <ns>102</ns>
+    <id>4822</id>
+    <revision>
+      <id>23195</id>
+      <timestamp>2012-10-14T23:31:32Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Property used by the Dygraphs examples, [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="61">Property used by the Dygraphs examples, [[has type::string]].</text>
+      <sha1>h9nqiv2727vtjhktwg6zpa39ljg5kty</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has shortcut</title>
+    <ns>102</ns>
+    <id>3035</id>
+    <revision>
+      <id>14277</id>
+      <timestamp>2012-02-24T00:24:40Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has slides</title>
+    <ns>102</ns>
+    <id>5056</id>
+    <revision>
+      <id>24071</id>
+      <timestamp>2012-10-28T23:29:40Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Page]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has slides external</title>
+    <ns>102</ns>
+    <id>5057</id>
+    <revision>
+      <id>24072</id>
+      <timestamp>2012-10-28T23:30:09Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::URL]].&quot;</comment>
+      <text xml:space="preserve" bytes="45">This is a property of type [[Has type::URL]].</text>
+      <sha1>om5vtlgywfhwdo7r68vhwc1zmggd94i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has speaker</title>
+    <ns>102</ns>
+    <id>4129</id>
+    <revision>
+      <id>20576</id>
+      <timestamp>2012-08-13T19:57:18Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::Page]]&quot;</comment>
+      <text xml:space="preserve" bytes="18">[[Has type::Page]]</text>
+      <sha1>byqsaznmj8muv1x9qm7hky0dlasesr9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has special property alias</title>
+    <ns>102</ns>
+    <id>3301</id>
+    <revision>
+      <id>16123</id>
+      <timestamp>2012-03-15T23:39:42Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has special property label</title>
+    <ns>102</ns>
+    <id>3300</id>
+    <revision>
+      <id>16122</id>
+      <timestamp>2012-03-15T23:39:16Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>neu</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has special property name</title>
+    <ns>102</ns>
+    <id>3299</id>
+    <revision>
+      <id>16121</id>
+      <timestamp>2012-03-15T23:38:44Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has start date</title>
+    <ns>102</ns>
+    <id>4259</id>
+    <revision>
+      <id>21130</id>
+      <timestamp>2012-08-23T13:34:49Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Date]].&quot;</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Date]].</text>
+      <sha1>9mgrgetkvo2j5ek3mccsi459e034o4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has status</title>
+    <ns>102</ns>
+    <id>4292</id>
+    <revision>
+      <id>21254</id>
+      <timestamp>2012-08-26T10:12:30Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::open]] * [[Allows value::closed]] * [[Allows value::deployed]] * ...&quot;</comment>
+      <text xml:space="preserve" bytes="199">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::open]]
+* [[Allows value::closed]]
+* [[Allows value::deployed]]
+* [[Allows value::review]]</text>
+      <sha1>5e7ggh2x0e29pri8ym8cg1qgvnkubhi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has subject</title>
+    <ns>102</ns>
+    <id>4295</id>
+    <revision>
+      <id>21257</id>
+      <timestamp>2012-08-26T10:18:01Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has subobject</title>
+    <ns>102</ns>
+    <id>3314</id>
+    <revision>
+      <id>17147</id>
+      <parentid>16194</parentid>
+      <timestamp>2012-03-25T00:12:55Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="247">This is the page of [[Help:Special properties|special property]] '''Has subobject'''. It lists all pages using this special property. See the help page [[Help:Special property Has subobject|Special property Has subobject]] for further information.</text>
+      <sha1>iapsap371h57f31l2djysqa9iwxcat7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has sunshine</title>
+    <ns>102</ns>
+    <id>3970</id>
+    <revision>
+      <id>19544</id>
+      <timestamp>2012-07-26T19:36:06Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::number]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::number]]</text>
+      <sha1>h6mevl4yo3aw5jqi72r0gryfyi4dloa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has tag extension</title>
+    <ns>102</ns>
+    <id>1860</id>
+    <revision>
+      <id>7434</id>
+      <timestamp>2011-07-24T16:32:21Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Boolean]].&quot;</comment>
+      <text xml:space="preserve" bytes="49">This is a property of type [[Has type::Boolean]].</text>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has talk type</title>
+    <ns>102</ns>
+    <id>4133</id>
+    <revision>
+      <id>30678</id>
+      <parentid>28247</parentid>
+      <timestamp>2013-10-24T15:48:48Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>I wonder why this was set to datatype page</comment>
+      <text xml:space="preserve" bytes="372">This property is of type [[Has type::Text]].
+
+It accepts these values:
+* [[Allows value::Regular talk]]
+* [[Allows value::Talk]]
+* [[Allows value::Technical talk]]
+* [[Allows value::Lightning talk]]
+* [[Allows value::Demo]]
+* [[Allows value::Workshop]]
+* [[Allows value::Hackathon]]
+* [[Allows value::Tutorial]]
+* [[Allows value::Keynote]]
+* [[Allows value::Presentation]]</text>
+      <sha1>ehrd7vvpkvmrg1ukqs00ruqg165d2kz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has temperature</title>
+    <ns>102</ns>
+    <id>4360</id>
+    <revision>
+      <id>21508</id>
+      <parentid>21501</parentid>
+      <timestamp>2012-09-03T19:01:44Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="93">The property belongs to [[Demo:Timeseries/Temperatures]] and is of type [[has type::number]].</text>
+      <sha1>7t9lim4xni9mlmth3qya9jvyjpy8lt4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has test group</title>
+    <ns>102</ns>
+    <id>4208</id>
+    <revision>
+      <id>20845</id>
+      <timestamp>2012-08-17T23:24:03Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::string]].</text>
+      <sha1>6irwqwmw3l3eg9hpdkfywjp1q45vj32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has test subject</title>
+    <ns>102</ns>
+    <id>4207</id>
+    <revision>
+      <id>20844</id>
+      <parentid>20843</parentid>
+      <timestamp>2012-08-17T23:22:52Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="120">This property is used by [[Demo:Jqplotseries/Scatter plot/Experimental study]] and is specified as [[has type::number]].</text>
+      <sha1>e8rc82a5dfylynsyyvy5b7e2kisftop</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has text</title>
+    <ns>102</ns>
+    <id>4821</id>
+    <revision>
+      <id>23193</id>
+      <timestamp>2012-10-14T23:30:36Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Property used by the Dygraphs examples, [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="61">Property used by the Dygraphs examples, [[has type::string]].</text>
+      <sha1>h9nqiv2727vtjhktwg6zpa39ljg5kty</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has tip text</title>
+    <ns>102</ns>
+    <id>4820</id>
+    <revision>
+      <id>23192</id>
+      <timestamp>2012-10-14T23:30:36Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Property used by the Dygraphs examples, [[has type::string]].&quot;</comment>
+      <text xml:space="preserve" bytes="61">Property used by the Dygraphs examples, [[has type::string]].</text>
+      <sha1>h9nqiv2727vtjhktwg6zpa39ljg5kty</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has title</title>
+    <ns>102</ns>
+    <id>3875</id>
+    <revision>
+      <id>18999</id>
+      <timestamp>2012-07-12T17:25:29Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has type</title>
+    <ns>102</ns>
+    <id>47</id>
+    <revision>
+      <id>16886</id>
+      <parentid>16197</parentid>
+      <timestamp>2012-03-21T22:36:46Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>add</comment>
+      <text xml:space="preserve" bytes="237">This is the page of [[Help:Special properties|special property]] '''Has type'''. It lists all properties using this special property. See the help page [[Help:Special property Has type|Special property Has type]] for further information.</text>
+      <sha1>14xh88cx6kld46dcfmbcntpofomic88</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has video</title>
+    <ns>102</ns>
+    <id>5326</id>
+    <revision>
+      <id>24811</id>
+      <timestamp>2012-12-05T19:22:35Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::URL]].&quot;</comment>
+      <text xml:space="preserve" bytes="45">This is a property of type [[Has type::URL]].</text>
+      <sha1>om5vtlgywfhwdo7r68vhwc1zmggd94i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has wattage</title>
+    <ns>102</ns>
+    <id>1796</id>
+    <revision>
+      <id>20370</id>
+      <parentid>20231</parentid>
+      <timestamp>2012-08-08T23:18:14Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <minor/>
+      <comment>add</comment>
+      <text xml:space="preserve" bytes="310">This property is of type [[Has type::Quantity]]. Its values are displayed in [[Display units::kW]].
+
+It supports several units. One watt can be specified as:
+
+* [[Corresponds to::1 W, Watt, Watts]]
+* [[Corresponds to::0.001 kW]]
+* [[Corresponds to::0.0013410220 hp, bhp, horsepower]]
+
+[[Category:Sample pages]]</text>
+      <sha1>oihr1t6cxpusk345vh3t2vswqcjx517</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Has x-value</title>
+    <ns>102</ns>
+    <id>4819</id>
+    <revision>
+      <id>23191</id>
+      <timestamp>2012-10-14T23:30:35Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;Property used by the Dygraphs examples, [[has type::float]].&quot;</comment>
+      <text xml:space="preserve" bytes="60">Property used by the Dygraphs examples, [[has type::float]].</text>
+      <sha1>mv90awk84og2rwq2mq3nmmh4zwpdfgj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Holds query information</title>
+    <ns>102</ns>
+    <id>5267</id>
+    <revision>
+      <id>24608</id>
+      <timestamp>2012-11-25T00:45:42Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="49">This is a property of type [[Has type::Boolean]].</text>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Homepage</title>
+    <ns>102</ns>
+    <id>224</id>
+    <revision>
+      <id>4333</id>
+      <parentid>907</parentid>
+      <timestamp>2010-10-17T17:23:23Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="103">This property is used to specify the [[has type::URL]] of something, e.g. of the [[Wiki of the Month]].</text>
+      <sha1>qy33r92auwc77v6c615849difxoi7xh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Image de couverture</title>
+    <ns>102</ns>
+    <id>2468</id>
+    <revision>
+      <id>10957</id>
+      <timestamp>2011-11-02T21:16:33Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Propriété utilisée pour stoker une relation entre l'image «&amp;nbsp;principale&amp;nbsp;» qui peut être utilisée pour représenter une page dans une requête. Elle utilise [[has ...&quot;</comment>
+      <text xml:space="preserve" bytes="233">Propriété utilisée pour stoker une relation entre l'image «&amp;nbsp;principale&amp;nbsp;» qui peut être utilisée pour représenter une page dans une requête. Elle utilise [[has type::Page]] avec les valeurs de l'espace de nom Image.</text>
+      <sha1>4r3ifasp96ylxk65e85hob716js7uwl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Imported from</title>
+    <ns>102</ns>
+    <id>76</id>
+    <revision>
+      <id>16890</id>
+      <parentid>10161</parentid>
+      <timestamp>2012-03-21T22:53:24Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>upd</comment>
+      <text xml:space="preserve" bytes="247">This is the page of [[Help:Special properties|special property]] '''Imported from'''. It lists all pages using this special property. See the help page [[Help:Special property Imported from|Special property Imported from]] for further information.</text>
+      <sha1>1nd0nmexy3wqrz5q8hi934yimodzkbj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Inverse property label</title>
+    <ns>102</ns>
+    <id>364</id>
+    <revision>
+      <id>9649</id>
+      <parentid>6994</parentid>
+      <timestamp>2011-09-25T21:27:42Z</timestamp>
+      <contributor>
+        <username>Kghblnbot</username>
+        <id>910</id>
+      </contributor>
+      <minor/>
+      <comment>Text replace - &quot;{{CR}}&quot; to &quot;&quot;</comment>
+      <text xml:space="preserve" bytes="174">
+A [[has type::Type:String|string]] giving a label to the opposite of a property. It should be used only on property pages.
+
+See [[Help:Special:Browse]] for how this is used.</text>
+      <sha1>hw46cvyqzluq4qdkojsxpi54n28ha32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is a new page</title>
+    <ns>102</ns>
+    <id>2956</id>
+    <revision>
+      <id>17213</id>
+      <parentid>13721</parentid>
+      <timestamp>2012-03-25T20:44:32Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="247">This is the page of [[Help:Special properties|special property]] '''Is a new page'''. It lists all pages using this special property. See the help page [[Help:Special property Is a new page|Special property Is a new page]] for further information.</text>
+      <sha1>3nmjcd377lh7m6bcc79y03lck5ptoud</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is associated with</title>
+    <ns>102</ns>
+    <id>2918</id>
+    <revision>
+      <id>13430</id>
+      <timestamp>2012-02-10T17:05:50Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="316">This is a property of type [[Has type::String]].
+
+MW stands for [[MediaWiki]], SMW for [[Semantic MediaWiki]], SB for [[Semantic Bundle]] and SMW+ for [[Semantic MediaWiki Plus]]
+
+The allowed values for this property are:
+* [[Allows value::MW]]
+* [[Allows value::SMW]]
+* [[Allows value::SB]]
+* [[Allows value::SMW+]]</text>
+      <sha1>begqjqyzdcdwq1k0rt9y5oev0kl13od</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is compatible with</title>
+    <ns>102</ns>
+    <id>4122</id>
+    <revision>
+      <id>20541</id>
+      <timestamp>2012-08-11T23:29:51Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is enabled by default</title>
+    <ns>102</ns>
+    <id>3409</id>
+    <revision>
+      <id>16704</id>
+      <timestamp>2012-03-20T19:46:17Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Boolean]].&quot;</comment>
+      <text xml:space="preserve" bytes="49">This is a property of type [[Has type::Boolean]].</text>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is from</title>
+    <ns>102</ns>
+    <id>3483</id>
+    <revision>
+      <id>17029</id>
+      <timestamp>2012-03-23T13:43:42Z</timestamp>
+      <contributor>
+        <username>Nischayn22</username>
+        <id>1273</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::String]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::String]]</text>
+      <sha1>5sjgyxh233abn9tfe2h4s0ob1071v8z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is master page</title>
+    <ns>102</ns>
+    <id>1870</id>
+    <revision>
+      <id>7472</id>
+      <timestamp>2011-07-24T17:30:51Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Boolean]].&quot;</comment>
+      <text xml:space="preserve" bytes="49">This is a property of type [[Has type::Boolean]].</text>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Is optional special property</title>
+    <ns>102</ns>
+    <id>3302</id>
+    <revision>
+      <id>16125</id>
+      <timestamp>2012-03-15T23:40:43Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::Boolean]].&quot;</comment>
+      <text xml:space="preserve" bytes="49">This is a property of type [[Has type::Boolean]].</text>
+      <sha1>8vxoynet9x13eclvtak49ni4bdl8imu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Language code</title>
+    <ns>102</ns>
+    <id>134</id>
+    <revision>
+      <id>647</id>
+      <timestamp>2008-02-28T18:04:36Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>new property for internationalisation</comment>
+      <text xml:space="preserve" bytes="252">This property is used to provide a '''language code''' for internationalising pages (being a [[has type::String]]). The values should be standard abbreviations for languages, such as &quot;en&quot;, &quot;de&quot; or &quot;Zh-tw&quot;. Pages without such a code are usually English.</text>
+      <sha1>h75245xzwivz2hdpncacvlixu6aqth1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Last editor is</title>
+    <ns>102</ns>
+    <id>2955</id>
+    <revision>
+      <id>17215</id>
+      <parentid>13720</parentid>
+      <timestamp>2012-03-25T20:52:43Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="250">This is the page of [[Help:Special properties|special property]] '''Last editor is'''. It lists all pages using this special property. See the help page [[Help:Special property Last editor is|Special property Last editor is]] for further information.</text>
+      <sha1>mafkrphvz8p85w87b99i1in3mc9t6oi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Located in</title>
+    <ns>102</ns>
+    <id>215</id>
+    <revision>
+      <id>22159</id>
+      <parentid>8598</parentid>
+      <timestamp>2012-09-29T19:30:27Z</timestamp>
+      <contributor>
+        <username>Jeroen De Dauw</username>
+        <id>27</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="700">A test property used on some sample pages. The type of this attribute is [[has type::Page]].
+
+You can create a new [[Has default form::Location]] with this property.
+
+== Inverse relationships ==
+The pages for [[Germany]] and [[California]] show various techniques to derive its inverse ''Location of''.
+
+== Transitive relationships ==
+For this wiki we will pretend that located in is transitive, so that things located in a province located in a country are located in that country.  The page for [[Germany]] shows various techniques to derive this.  (As a counter-example, Turkey is located in both Europe and Asia, but regions within Turkey are only in one or the other.)
+
+[[Category:Sample pages]]</text>
+      <sha1>lg59akt6kbbkchbaik5h35ifmstgfqk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Location of</title>
+    <ns>102</ns>
+    <id>2037</id>
+    <revision>
+      <id>8599</id>
+      <timestamp>2011-08-23T22:35:15Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="119">A test property used on some sample pages. The type of this attribute is [[has type::Page]].
+
+[[Category:Sample pages]]</text>
+      <sha1>reyrpnmzivzwd6dh7epmini17r695oj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Master page</title>
+    <ns>102</ns>
+    <id>135</id>
+    <revision>
+      <id>10534</id>
+      <parentid>648</parentid>
+      <timestamp>2011-10-13T11:06:00Z</timestamp>
+      <contributor>
+        <ip>93.233.80.33</ip>
+      </contributor>
+      <comment>Fixing typo</comment>
+      <text xml:space="preserve" bytes="329">This property points to the '''master [[has type::page]]''' of some content page of the document. Master pages are usually the most up-to-date English versions of some content. By pointing to the same master page, different pages can indicate that they cover the same topic but maybe for a different langauge or software version.</text>
+      <sha1>l7b9dwo7tv0e0e1rlpdmfaq9p0iy7h1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Meta data link</title>
+    <ns>102</ns>
+    <id>3313</id>
+    <revision>
+      <id>16196</id>
+      <parentid>16186</parentid>
+      <timestamp>2012-03-16T13:17:29Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="134">This property is specified as [[Has type::Text|text]] and is part of the meta data subobject.
+==See also ==
+[[Property:Has subobject]]</text>
+      <sha1>2jmxz3dw74uu6avhtyxu85ae2tdlrhk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Modification date</title>
+    <ns>102</ns>
+    <id>408</id>
+    <revision>
+      <id>17180</id>
+      <parentid>11914</parentid>
+      <timestamp>2012-03-25T15:11:07Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="259">This is the page of [[Help:Special properties|special property]] '''Modification date'''. It lists all pages using this special property. See the help page [[Help:Special property Modification date|Special property Modification date]] for further information.</text>
+      <sha1>a1pus9kxsds0ufg5uc6hmkzq25rh9ey</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Month</title>
+    <ns>102</ns>
+    <id>3972</id>
+    <revision>
+      <id>19546</id>
+      <timestamp>2012-07-26T19:36:32Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;[[Has type::string]]&quot;</comment>
+      <text xml:space="preserve" bytes="20">[[Has type::string]]</text>
+      <sha1>gfco3lu9zamq1iw317gfihb4z9ov5v5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Name</title>
+    <ns>102</ns>
+    <id>1164</id>
+    <revision>
+      <id>4332</id>
+      <timestamp>2010-10-17T17:22:04Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;This [[has type::string]] specifies the name of something, e.g. of the [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="93">This [[has type::string]] specifies the name of something, e.g. of the [[Wiki of the Month]].</text>
+      <sha1>6d3hto2bvaoxylnday68s9n9b6ebrs0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Name of wiki</title>
+    <ns>102</ns>
+    <id>2256</id>
+    <revision>
+      <id>10185</id>
+      <timestamp>2011-10-02T08:38:26Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Namespace</title>
+    <ns>102</ns>
+    <id>1604</id>
+    <revision>
+      <id>6039</id>
+      <timestamp>2011-04-07T16:33:57Z</timestamp>
+      <contributor>
+        <username>Dick6809</username>
+        <id>645</id>
+      </contributor>
+      <comment>Initial release</comment>
+      <text xml:space="preserve" bytes="242">{{docinfo
+|desc= describes the namespace information of the page itself as a link to the Project:''Namespace'' page.
+|author= Dick6809
+}}
+This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::string]].</text>
+      <sha1>0kom7oayr817aon0y9pjp1b4jy07sid</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:NeighbourOf</title>
+    <ns>102</ns>
+    <id>720</id>
+    <revision>
+      <id>2861</id>
+      <timestamp>2010-06-07T06:38:07Z</timestamp>
+      <contributor>
+        <ip>134.34.226.69</ip>
+      </contributor>
+      <comment>Created page with 'This is a property of type [[Has type::Page]].'</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Page]].</text>
+      <sha1>jk9aupditbfg4coza27xh6berm5n0sp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:News date</title>
+    <ns>102</ns>
+    <id>125</id>
+    <revision>
+      <id>2574</id>
+      <parentid>609</parentid>
+      <timestamp>2010-04-29T23:04:27Z</timestamp>
+      <contributor>
+        <ip>98.210.195.19</ip>
+      </contributor>
+      <text xml:space="preserve" bytes="145">This property specifies the [[has type::Date]] of some [[:Category:News item|news item]]. The dates are used to order news on the front page etc.</text>
+      <sha1>eb81y6oxne8dkeuxz0ma7j2ojwpqoej</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Next SMW release</title>
+    <ns>102</ns>
+    <id>258</id>
+    <revision>
+      <id>18372</id>
+      <parentid>964</parentid>
+      <timestamp>2012-06-12T01:21:22Z</timestamp>
+      <contributor>
+        <username>Skierpage</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>remove obsolete Type: namespace</comment>
+      <text xml:space="preserve" bytes="127">Used on pages for [[:Category:SMW releases|SMW releases]] to indicate the next chronological release.
+
+[[has type::Page|:Page]]</text>
+      <sha1>jd7ayp6me1nzwzdv2dq9l9db79h0k8t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nom</title>
+    <ns>102</ns>
+    <id>2469</id>
+    <revision>
+      <id>10958</id>
+      <timestamp>2011-11-02T21:17:49Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Ce [[has type::string|champ]] spécifie le nom de quelque chose comme par exemple le [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="102">Ce [[has type::string|champ]] spécifie le nom de quelque chose comme par exemple le [[wiki du mois]].</text>
+      <sha1>pm2lq0x2fhcpgtrdbcrekvb92ff1lqo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nombre d'utilisateurs</title>
+    <ns>102</ns>
+    <id>2470</id>
+    <revision>
+      <id>10959</id>
+      <timestamp>2011-11-02T21:19:10Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Une propriété qui conte le [[has type::number|nombre]] total d'utilisateur d'un site wiki comme par exemple ceux d'un [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="137">Une propriété qui conte le [[has type::number|nombre]] total d'utilisateur d'un site wiki comme par exemple ceux d'un [[wiki du mois]].</text>
+      <sha1>30mzn9qka47p1se16f0p2slqrdld2mt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nombre de catégories</title>
+    <ns>102</ns>
+    <id>2467</id>
+    <revision>
+      <id>10956</id>
+      <timestamp>2011-11-02T21:14:28Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Une propriété qui compte le [[has type::number|nombre]] de catégories d'un site wiki comme par exemple pour un [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="131">Une propriété qui compte le [[has type::number|nombre]] de catégories d'un site wiki comme par exemple pour un [[wiki du mois]].</text>
+      <sha1>kbqqpsk9qqe1rg2ggkdq3ik5jxa1dux</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nombre de formulaires</title>
+    <ns>102</ns>
+    <id>2471</id>
+    <revision>
+      <id>10960</id>
+      <timestamp>2011-11-02T21:20:19Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Une propriété qui compte le [[has type::number|nombre]] total de formulaires d'un site wiki comme par exemple ceux d'un [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="139">Une propriété qui compte le [[has type::number|nombre]] total de formulaires d'un site wiki comme par exemple ceux d'un [[wiki du mois]].</text>
+      <sha1>gp5k364sywmec56cbjxz26560pnr5ht</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nombre de modèles</title>
+    <ns>102</ns>
+    <id>2472</id>
+    <revision>
+      <id>10961</id>
+      <timestamp>2011-11-02T21:20:40Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Une propriété qui compte le [[has type::number|nombre]] total de modèles d'un site wiki comme par exemple ceux d'un [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="136">Une propriété qui compte le [[has type::number|nombre]] total de modèles d'un site wiki comme par exemple ceux d'un [[wiki du mois]].</text>
+      <sha1>m3wiq3jqn31uj0wxs44xf5j63591a50</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nombre de pages</title>
+    <ns>102</ns>
+    <id>2473</id>
+    <revision>
+      <id>10964</id>
+      <timestamp>2011-11-02T21:23:21Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Une propriété qui compte le [[has type::number|nombre]] total de pages d'un site wiki comme par exemple ceux d'un [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="133">Une propriété qui compte le [[has type::number|nombre]] total de pages d'un site wiki comme par exemple ceux d'un [[wiki du mois]].</text>
+      <sha1>q9xxi9e1nxivobfp11phzrapvucumr5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Nombre de propriétés</title>
+    <ns>102</ns>
+    <id>2474</id>
+    <revision>
+      <id>10965</id>
+      <timestamp>2011-11-02T21:23:47Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;Une propriété qui compte le [[has type::number|nombre]] total de propriétés d'un site wiki comme par exemple ceux d'un [[wiki du mois]].&quot;</comment>
+      <text xml:space="preserve" bytes="140">Une propriété qui compte le [[has type::number|nombre]] total de propriétés d'un site wiki comme par exemple ceux d'un [[wiki du mois]].</text>
+      <sha1>4fk1rkk7jj73apts14l3kmwfial2j48</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Page count</title>
+    <ns>102</ns>
+    <id>1237</id>
+    <revision>
+      <id>4702</id>
+      <timestamp>2010-11-04T18:28:17Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;A property to count the [[has type::number]] of pages on a wiki site, e.g. for a [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="103">A property to count the [[has type::number]] of pages on a wiki site, e.g. for a [[Wiki of the Month]].</text>
+      <sha1>g0qc3qtd2v2e3ttraxxld1lxev9j4gz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Part of</title>
+    <ns>102</ns>
+    <id>5806</id>
+    <revision>
+      <id>26281</id>
+      <timestamp>2013-02-15T00:21:28Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="48">The type of this property is [[has type::page]].</text>
+      <sha1>4asl5kdzwkloo5xl0jobsthmcrqzl34</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Population</title>
+    <ns>102</ns>
+    <id>83</id>
+    <revision>
+      <id>20961</id>
+      <parentid>20696</parentid>
+      <timestamp>2012-08-19T22:38:45Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <text xml:space="preserve" bytes="113">This is a property of type [[Has type::Number]]. Some query examples can be found '''[[Demo:Population|here]]'''.</text>
+      <sha1>hpdu5cg201ecmtpj4o4vat77eyyul67</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Previous SMW release</title>
+    <ns>102</ns>
+    <id>272</id>
+    <revision>
+      <id>20732</id>
+      <parentid>986</parentid>
+      <timestamp>2012-08-16T00:04:55Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="152">Used on pages for [[:Category:SMW releases|SMW releases]] to indicate the previous chronological release. This is a property of type [[Has type::Page]].</text>
+      <sha1>hf6agk8e7weein1ie4tjumdqsgygkoq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Property count</title>
+    <ns>102</ns>
+    <id>1238</id>
+    <revision>
+      <id>4703</id>
+      <timestamp>2010-11-04T18:28:27Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;A property to count the [[has type::number]] of properties on a wiki site, e.g. for a [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="108">A property to count the [[has type::number]] of properties on a wiki site, e.g. for a [[Wiki of the Month]].</text>
+      <sha1>2cmdktayrpxybebjre3taqvqutuxvv2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Provides service</title>
+    <ns>102</ns>
+    <id>77</id>
+    <revision>
+      <id>17219</id>
+      <parentid>10162</parentid>
+      <timestamp>2012-03-25T21:07:51Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>chg</comment>
+      <text xml:space="preserve" bytes="261">This is the page of [[Help:Special properties|special property]] '''Provides service'''. It lists all properties using this special property. See the help page [[Help:Special property Provides service|Special property Provides service]] for further information.</text>
+      <sha1>ohy52qgfaj951kvh0rggdx0y44f1i34</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Query depth</title>
+    <ns>102</ns>
+    <id>5260</id>
+    <revision>
+      <id>24592</id>
+      <timestamp>2012-11-24T23:29:47Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="241">This is the page of [[Help:Special properties|special property]] '''Query depth'''. It lists all pages using this special property. See the help page [[Help:Special property Query depth|Special property Query depth]] for further information.</text>
+      <sha1>no1tc6xvklb54q22r5vwrso4w18hxxx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Query format</title>
+    <ns>102</ns>
+    <id>5261</id>
+    <revision>
+      <id>24593</id>
+      <timestamp>2012-11-24T23:30:51Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="244">This is the page of [[Help:Special properties|special property]] '''Query format'''. It lists all pages using this special property. See the help page [[Help:Special property Query format|Special property Query format]] for further information.</text>
+      <sha1>jfguak7r2mrrjxwn4ar769mz9pywn0g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Query size</title>
+    <ns>102</ns>
+    <id>5262</id>
+    <revision>
+      <id>24594</id>
+      <timestamp>2012-11-24T23:31:25Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="238">This is the page of [[Help:Special properties|special property]] '''Query size'''. It lists all pages using this special property. See the help page [[Help:Special property Query size|Special property Query size]] for further information.</text>
+      <sha1>bm2xsd56bye57km39ekiwe608iktihx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Query string</title>
+    <ns>102</ns>
+    <id>5263</id>
+    <revision>
+      <id>24595</id>
+      <timestamp>2012-11-24T23:32:39Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="244">This is the page of [[Help:Special properties|special property]] '''Query string'''. It lists all pages using this special property. See the help page [[Help:Special property Query string|Special property Query string]] for further information.</text>
+      <sha1>tra7jaylvb9a754kbtyb0i8ce38jo8l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Release status</title>
+    <ns>102</ns>
+    <id>1767</id>
+    <revision>
+      <id>6750</id>
+      <timestamp>2011-05-27T20:25:00Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].  The allowed values for this property are: * [[Allows value::current]] * [[Allows value::old]]&quot;</comment>
+      <text xml:space="preserve" bytes="143">This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::current]]
+* [[Allows value::old]]</text>
+      <sha1>mwokizf4zpdnetdx58nmhy5bwx8wopb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Revision id</title>
+    <ns>102</ns>
+    <id>1603</id>
+    <revision>
+      <id>8319</id>
+      <parentid>6038</parentid>
+      <timestamp>2011-08-12T23:17:19Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>- docinfo</comment>
+      <text xml:space="preserve" bytes="135">This property {{#show:{{FULLPAGENAME}}|?description}}
+The type of this property is [[has type::Number]].
+
+[[Category:Docinfo property]]</text>
+      <sha1>4lqcppgpvx26fisjrqjp964006uflp7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Satisfied</title>
+    <ns>102</ns>
+    <id>4082</id>
+    <revision>
+      <id>20245</id>
+      <timestamp>2012-08-08T15:34:18Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="123">This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].</text>
+      <sha1>61bkp8zo8y28z3paqsv5i88n1vunnvx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Setting language</title>
+    <ns>102</ns>
+    <id>5074</id>
+    <revision>
+      <id>24150</id>
+      <timestamp>2012-10-31T08:22:23Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <comment>Created page with &quot;This property {{#show:{{FULLPAGENAME}}|?description}}  The type of this property is [[has type::string]].  [[Category:Setting property]]&quot;</comment>
+      <text xml:space="preserve" bytes="136">This property {{#show:{{FULLPAGENAME}}|?description}}
+
+The type of this property is [[has type::string]].
+
+[[Category:Setting property]]</text>
+      <sha1>l1y96t8sv0fi3m3ftzm4kugahc8yx0o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Subcategory of</title>
+    <ns>102</ns>
+    <id>6289</id>
+    <revision>
+      <id>27597</id>
+      <timestamp>2013-05-29T13:46:35Z</timestamp>
+      <contributor>
+        <username>Dan Bolser</username>
+        <id>20</id>
+      </contributor>
+      <comment>Created page with &quot;This property is used to explicitly define the subcategory relationship between categories, regardless of the setting of Help:Configuration#smwgUseCategoryHierarchy|smwgUseC...&quot;</comment>
+      <text xml:space="preserve" bytes="194">This property is used to explicitly define the subcategory relationship between categories, regardless of the setting of [[Help:Configuration#smwgUseCategoryHierarchy|smwgUseCategoryHierarchy]].</text>
+      <sha1>f22oq15tpmil3gw3xihdv8wlxbj8qyp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Subproperty of</title>
+    <ns>102</ns>
+    <id>78</id>
+    <revision>
+      <id>17150</id>
+      <parentid>10163</parentid>
+      <timestamp>2012-03-25T00:30:57Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>upd</comment>
+      <text xml:space="preserve" bytes="255">This is the page of [[Help:Special properties|special property]] '''Subproperty of'''. It lists all properties using this special property. See the help page [[Help:Special property Subproperty of|Special property Subproperty of]] for further information.</text>
+      <sha1>t2vaosrm5oj2n0qo4aipatsain40ivr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Surface area</title>
+    <ns>102</ns>
+    <id>119</id>
+    <revision>
+      <id>18375</id>
+      <parentid>18374</parentid>
+      <timestamp>2012-06-12T01:32:02Z</timestamp>
+      <contributor>
+        <username>Skierpage</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>/* Subproperty of */ link to help</comment>
+      <text xml:space="preserve" bytes="823">'''{{PAGENAME}}''' defines the surface area of a body, such as in astronomy.
+The type of this attribute is [[has type::Quantity]].
+Its units are
+* [[Corresponds to::1 m²]]
+
+The [[Help:Semantic templates|semantic template]] [[Template:Surface area]] provides a simple way to simultaneously annotate a page with this property and display its value in a standardized scientific notation.
+
+=== Subproperty of ===
+Surface area is a [[Help:Special property Subproperty of|subproperty]] of [[Subproperty of::Area]].
+You can query for anything with an Area and pick up pages with this subproperty, but you have to name all subproperties.
+{{#ask:[[Area::+]]
+|?Area
+|?Surface area
+|limit=5
+|headers=show
+|mainlabel=page with an &quot;area&quot;
+|link=all
+|class=sortable wikitable smwtable
+|order=DESC
+|sort=Area
+}}
+
+[[Category:sample pages]]</text>
+      <sha1>2e75sd37u8xj87lecaz4jiidwaz4cay</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Telephone Number</title>
+    <ns>102</ns>
+    <id>7070</id>
+    <revision>
+      <id>30458</id>
+      <parentid>30451</parentid>
+      <timestamp>2013-10-15T08:41:10Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>add more infos</comment>
+      <text xml:space="preserve" bytes="404">This is a property of type &quot;[[Has type::Text]]&quot;. It is not of type &quot;[[Help:Type Telephone number|Telephone number]]&quot; since it is meant to hold telephone numbers which cannot be interpreted according to [http://www.ietf.org/rfc/rfc3966.txt RFC 3966], e.g. &lt;code&gt;+353-91-CALLME&lt;/code&gt;, etc. See also the property &quot;[[Property:Telephone number|Telephone number]]&quot; for machine interpretable telephone numbers.</text>
+      <sha1>aynbe4xvfjrbe72rta0vz5r4kub2fvf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Telephone number</title>
+    <ns>102</ns>
+    <id>7072</id>
+    <revision>
+      <id>30459</id>
+      <parentid>30453</parentid>
+      <timestamp>2013-10-15T08:43:26Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>add more infos</comment>
+      <text xml:space="preserve" bytes="343">This is a property of type &quot;[[Has type::Telephone number]]&quot;. It is meant to hold telephone numbers which can be interpreted according to [http://www.ietf.org/rfc/rfc3966.txt RFC 3966], e.g. &lt;code&gt;+1-91-12534837&lt;/code&gt;, etc. See also the property &quot;[[Property:Telephone Number|Telephone Number]]&quot; for non machine interpretable telephone numbers.</text>
+      <sha1>f8afsr89y551alucfj7ocg6al7ecrwr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Template count</title>
+    <ns>102</ns>
+    <id>1239</id>
+    <revision>
+      <id>4704</id>
+      <timestamp>2010-11-04T18:28:37Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;A property to count the [[has type::number]] of templates on a wiki site, e.g. for a [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="107">A property to count the [[has type::number]] of templates on a wiki site, e.g. for a [[Wiki of the Month]].</text>
+      <sha1>nd1pbidffxm0mxceeb9w58wjw976r50</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:To version</title>
+    <ns>102</ns>
+    <id>137</id>
+    <revision>
+      <id>650</id>
+      <timestamp>2008-02-28T18:10:03Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>property for versioning docu</comment>
+      <text xml:space="preserve" bytes="400">This property defines the '''latest software version''' for that a given documentation page is a valid description. It is currently a simple [[has type::string]] but should probably be something more elaborate to enable proper sorting. If a document defines no latest version, this usually means that it is valid for all current version (after the [[Property:From version|minimal required version]]).</text>
+      <sha1>o8b6qj6t22oeuo2iezdwabmi325yuu9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:User count</title>
+    <ns>102</ns>
+    <id>1240</id>
+    <revision>
+      <id>4705</id>
+      <timestamp>2010-11-04T18:28:52Z</timestamp>
+      <contributor>
+        <username>Markus KrÃ¶tzsch</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with &quot;A property to count the total [[has type::number]] of users on a wiki site, e.g. for a [[Wiki of the Month]].&quot;</comment>
+      <text xml:space="preserve" bytes="109">A property to count the total [[has type::number]] of users on a wiki site, e.g. for a [[Wiki of the Month]].</text>
+      <sha1>oo4d4xr9tpy51xb3z1111u7e2dacm00</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Version</title>
+    <ns>102</ns>
+    <id>2270</id>
+    <revision>
+      <id>10247</id>
+      <timestamp>2011-10-02T22:22:34Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="81">This [[has type::string]] specifies the name of a [[Semantic MediaWiki]] release.</text>
+      <sha1>5uaf52m5vpt9sld0d963xwc3b7o4r6n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Very disatisfied</title>
+    <ns>102</ns>
+    <id>4084</id>
+    <revision>
+      <id>20247</id>
+      <timestamp>2012-08-08T15:34:24Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="123">This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].</text>
+      <sha1>61bkp8zo8y28z3paqsv5i88n1vunnvx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Very satisfied</title>
+    <ns>102</ns>
+    <id>4081</id>
+    <revision>
+      <id>20244</id>
+      <timestamp>2012-08-08T15:34:05Z</timestamp>
+      <contributor>
+        <username>MWJames</username>
+        <id>617</id>
+      </contributor>
+      <comment>Created page with &quot;This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].&quot;</comment>
+      <text xml:space="preserve" bytes="123">This property belongs to [[Demo:Jqplotseries/Survey|Jqplotseries]] best practices and is specified as [[has type::number]].</text>
+      <sha1>61bkp8zo8y28z3paqsv5i88n1vunnvx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Warning</title>
+    <ns>102</ns>
+    <id>1562</id>
+    <revision>
+      <id>5991</id>
+      <timestamp>2011-04-07T15:52:46Z</timestamp>
+      <contributor>
+        <username>Dick6809</username>
+        <id>645</id>
+      </contributor>
+      <comment>Initial release</comment>
+      <text xml:space="preserve" bytes="112">This property [[description::describes a warning message.]]
+The type of this property is &quot;[[has type::string]].&quot;</text>
+      <sha1>t8f3krqkzn05oqyfbohmjmqmmhft08h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Was first released</title>
+    <ns>102</ns>
+    <id>2752</id>
+    <revision>
+      <id>12194</id>
+      <timestamp>2012-01-02T15:24:31Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>new</comment>
+      <text xml:space="preserve" bytes="50">The type of this property is [[has type::string]].</text>
+      <sha1>pvru1fwdobgimwqi8m4lk3ot904fcae</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Was first released month</title>
+    <ns>102</ns>
+    <id>2914</id>
+    <revision>
+      <id>13426</id>
+      <timestamp>2012-02-10T17:01:45Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Was first released year</title>
+    <ns>102</ns>
+    <id>2915</id>
+    <revision>
+      <id>13427</id>
+      <timestamp>2012-02-10T17:02:28Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>Created page with &quot;This is a property of type [[Has type::String]].&quot;</comment>
+      <text xml:space="preserve" bytes="48">This is a property of type [[Has type::String]].</text>
+      <sha1>4qq6cuutoa3imisl8utrduwz15crhq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Website</title>
+    <ns>102</ns>
+    <id>45</id>
+    <revision>
+      <id>297</id>
+      <parentid>296</parentid>
+      <timestamp>2007-12-15T19:54:18Z</timestamp>
+      <contributor>
+        <username>Denny Vrandecic</username>
+        <id>0</id>
+      </contributor>
+      <text xml:space="preserve" bytes="48">The [[has type::URL]] of the topic on this page.</text>
+      <sha1>62a7h6j4wo4pbyn6mkwkbxvudeygzb3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Wiki du mois</title>
+    <ns>102</ns>
+    <id>2475</id>
+    <revision>
+      <id>10967</id>
+      <parentid>10966</parentid>
+      <timestamp>2011-11-02T21:26:49Z</timestamp>
+      <contributor>
+        <username>LIMAFOX76</username>
+        <id>707</id>
+      </contributor>
+      <text xml:space="preserve" bytes="128">Une propriété qui spécifie le [[has type::string|mois]] durant lequel un site wiki a été élu [[wiki du mois]] sur ce site.</text>
+      <sha1>lpfgsuwrtykr4fgl3wn0fnfkjvm3j85</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Wiki of month</title>
+    <ns>102</ns>
+    <id>1165</id>
+    <revision>
+      <id>10980</id>
+      <parentid>4335</parentid>
+      <timestamp>2011-11-03T00:01:56Z</timestamp>
+      <contributor>
+        <username>Yaron Koren</username>
+        <id>4</id>
+      </contributor>
+      <comment>Reworded</comment>
+      <text xml:space="preserve" bytes="145">This property specifies the month in which a wiki has been the [[Wiki of the Month]] on this site. This is a property of type [[Has type::Date]].</text>
+      <sha1>9b7m9wxrwdzw0nbbbmo4jg24z9gaeid</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Wiki of month local</title>
+    <ns>102</ns>
+    <id>2272</id>
+    <revision>
+      <id>12051</id>
+      <parentid>12049</parentid>
+      <timestamp>2011-12-29T14:40:01Z</timestamp>
+      <contributor>
+        <username>Dgennaro</username>
+        <id>127</id>
+      </contributor>
+      <text xml:space="preserve" bytes="222">This property specifies the month in which a wiki has been the [[Wiki of the Month]] on this site. In contrast to [[Property:Wiki of month]] it contains the localised names. This is a property of type [[Has type::String]].</text>
+      <sha1>iapv1wajuj0jvd1luotoq357dfqun88</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Worn by</title>
+    <ns>102</ns>
+    <id>1561</id>
+    <revision>
+      <id>5990</id>
+      <timestamp>2011-04-07T15:52:09Z</timestamp>
+      <contributor>
+        <username>Dick6809</username>
+        <id>645</id>
+      </contributor>
+      <comment>Initial release</comment>
+      <text xml:space="preserve" bytes="112">This property [[description::describes a source of warning.]]
+The type of this property is &quot;[[has type::page]].&quot;</text>
+      <sha1>p6l6uktzwlk80pbuvy63nl245yjakry</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Property:Year</title>
+    <ns>102</ns>
+    <id>601</id>
+    <revision>
+      <id>15635</id>
+      <parentid>2330</parentid>
+      <timestamp>2012-03-10T01:20:43Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>corr</comment>
+      <text xml:space="preserve" bytes="46">This is a property of type [[Has type::Date]].</text>
+      <sha1>9mgrgetkvo2j5ek3mccsi459e034o4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Docinfo</title>
+    <ns>10</ns>
+    <id>1461</id>
+    <revision>
+      <id>25265</id>
+      <parentid>25108</parentid>
+      <timestamp>2012-12-18T19:41:41Z</timestamp>
+      <contributor>
+        <username>Kghbln</username>
+        <id>74</id>
+      </contributor>
+      <comment>added uk, thank go to Mag</comment>
+      <text xml:space="preserve" bytes="6636">&lt;onlyinclude&gt;&lt;includeonly&gt;&lt;br /&gt;{{docinfo/{{#switch:{{{status|}}}
+ |effective = effective
+ |draft     = draft
+ |obsolete  = obsolete
+ |{{ns:0}}  = {{#if:{{{master page|}}}|draft|effective}}
+ |others
+ }}
+|1={{{1|}}}|2={{{2|}}}|3={{{3|}}}
+|master page = {{{master page|}}}
+|master rev  = {{{master rev|}}}
+|master link = {{{master link|}}}
+|status    = {{{status|}}}
+|progress  = {{{progress|}}}
+|priority  = {{{priority|}}}
+}}{{docinfo/{{#switch:THEN
+ |{{#if:{{{master page|}}}|NOT|THEN}} = null
+ |{{#switch:{{{master link|}}}|external|interwiki=THEN}} = null
+ |{{#ifexist:{{{master page}}}|NOT|THEN}} = unknown-master
+ |{{#if:{{{master rev|}}}|NOT|THEN}} = null
+ |{{#if:{{#show:{{{master page}}}|?revision id#}}|NOT|THEN}} = unknown-rev
+ |{{#ifeq:{{#show:{{{master page}}}|?revision id#}}|{{{master rev}}}|NOT|THEN}} = updated
+ |null
+ }}
+|1={{{1|}}}|2={{{2|}}}|3={{{3|}}}
+|master page = {{{master page|}}}
+|master rev  = {{{master rev|}}}
+|master link = {{{master link|}}}
+|status    = {{{status|}}}
+|progress  = {{{progress|}}}
+|priority  = {{{priority|}}}
+}}{{#if:{{{desc|}}}
+|{{#set:description={{{desc}}} }}
+|{{#set:
+ |worn by =Template:Docinfo
+ |warning =No description
+ }}
+}}{{#set:
+|revision id={{REVISIONID}}
+|namespace={{#if:{{NAMESPACE}}|{{NAMESPACE}}|:}}
+|docinfo progress ={{#switch:THEN
+ |{{#switch:{{{progress|}}}|done|almost done|in progress|just started=THEN}}=
+  {{#switch:{{{progress}}}
+  |done=100
+  |almost done=95
+  |in progress=50
+  |just started=0
+  }}
+ |{{#if:{{{progress|}}}|NOT|THEN}}=95
+ |{{#iferror:{{#expr:{{{progress}}}+1}}|THEN}}=95
+ |{{#ifexpr:{{{progress}}}&gt;=100|THEN}}=100
+ |{{#ifexpr:{{{progress}}}&gt;  75|THEN}}=95
+ |{{#ifexpr:{{{progress}}}&lt;=  0|THEN}}=0
+ |#default={{#expr:(ceil({{{progress}}}/25))*25}}
+ }}
+|docinfo priority ={{#switch:{{{priority|}}}&lt;!--
+      en     de       nl       fr      es       it      ua          ru         ja  zh-hans --&gt;
+ |0|u|urgent|dringend |dringend|urgent |urgente |urgente|негайний  |немедленный|緊急|紧急
+ |1|t|top   |sehr hoch|top     |top    |arriba  |top    |терміновий|срочный    |最高|最高 =1
+ |2|h|high  |hoch     |hoog    |haute  |alta    |alto   |високий   |высокий    |高  |高    =2
+ |3|n|normal|normal   |normaal |normale|normales|normale|звичайний |нормальный |通常|普通   =3
+ |4|l|low   |niedrig  |laag    |faible |baja    |basso  |низький   |низкий     |低  |低    =4
+ |#default=3
+ }}
+}}{{#if:{{{master page|}}}|{{#set:docinfo master page={{{master page}}} }}
+}}{{#if:{{{master rev|}}} |{{#set:docinfo master rev ={{{master rev}}} }}
+}}{{#if:{{{category|}}}
+|{{#arraymap:{{{category|}}}|,|x|{{#set:docinfo category=Category:x}}[[Category:x|{{PAGENAME}}]]}}
+|{{#set:docinfo category=-}}
+}}{{#if:{{{author|}}}
+|{{#arraymap:{{{author|}}}  |,|x|{{#set:docinfo author=User:x}}}}
+|{{#set:docinfo author=-}}
+}}{{#if:{{{editor|}}}
+|{{#arraymap:{{{editor|}}}  |,|x|{{#set:docinfo editor=User:x}}}}
+|{{#set:docinfo editor=-}}
+}}{{#if:{{{support|}}}
+|{{#arraymap:{{{support}}} |,|x|{{#set:docinfo support=User:x}}}}
+|{{#set:docinfo support=-}}
+}}{{#if:{{{lang|}}}
+|{{#arraymap:{{{lang}}} |,|x|{{#set:docinfo language=x}}}}
+|{{#set:docinfo language=en}}
+}}{{{ {{{return|}}}| }}}
+
+&lt;div style=&quot;text-align: center; background: #F7F7F7; border: 4px solid #B0BFE8; padding: 0.5em; clear: both; &quot;&gt;
+'''{{#switch:{{{lang}}}|
+    de = Diese Dokumentationsseite gilt für alle SMW-Versionen von {{{minversion}}} bis {{{maxversion|zur aktuellsten Version}}}.|
+    nl = Deze documentatiepagina is geldig voor alle SMW versies van {{{minversion}}} tot {{{maxversion|de meest recente versie}}}.| 
+    fr = Cette page de documentation concerne toutes les versions de SMW depuis la {{{minversion}}} jusqu'à la {{{maxversion|version la plus récente}}}.|
+    uk = Ця сторінка стосується усіх версій Семантичної МедіаВікі, починаючи з {{{minversion}}} і до  {{{maxversion|останньої версії}}}.|
+    ru = Эта страница относится ко всем версиям SMW, начиная с версии {{{minversion}}} вплоть до  {{{maxversion|самой последней версии}}}.|
+    zh-hans = 本文档页面适用于SMW从{{{minversion}}}版到{{{maxversion|最新版本}}}的所有版本。|
+    This documentation page applies to all SMW versions from {{{minversion}}} to {{{maxversion|the most current version}}}.
+}}'''&lt;!--
+
+--&gt;&lt;div&gt;{{#ifeq:{{#ask: [[Docinfo master page::{{{master page}}}]] [[Docinfo language::{{{lang}}}]] [[from version::!{{{minversion}}}]]|format=count}}|0||&lt;!--
+
+--&gt;{{#switch:{{{lang}}}|
+     de = Andere Versionen:|
+     nl = Andere versies :| 
+     fr = Autres versions :|
+     uk = Інші версії :|
+     ru = Прочие версии :|
+     zh-hans = 其他版本：|
+     Other versions:
+   }}&lt;!--
+
+--&gt; {{#ask: [[Docinfo master page::{{{master page}}}]] [[Docinfo language::{{{lang}}}]] [[from version::!{{{minversion}}}]]|
+    ?from version = |
+    ?to version = |
+    sort = from version|
+    order = desc|
+    link=none|
+    format=list|
+    sep=,&amp;nbsp;|
+    template=versionlink|
+    limit = 3|
+    searchlabel = [&amp;hellip;]
+   }}
+}}&lt;!-- 
+--&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;!--
+--&gt;{{#ifeq:{{#ask: [[Docinfo master page::{{{master page}}}]] [[from version::{{{minversion}}}]] [[Docinfo language::!{{{lang}}}]]|format=count}}|0||&lt;!--
+
+--&gt;{{#switch:{{{lang}}}|
+    de = Andere Sprachen:|
+    fr = Autres langues :|
+    nl = Andere talen :|
+    uk = Інші мови :|
+    ru = Другие языки :|
+    zh-hans = 其他语言：|
+    Other languages:
+   }}&lt;!--
+
+--&gt; {{#ask: [[Docinfo master page::{{{master page}}}]] [[from version::{{{minversion}}}]] [[Docinfo language::!{{{lang}}}]]|
+   ?Docinfo language =|
+   link=none|
+   format=list|
+   sep=,&amp;nbsp;|
+   template=languagelink|
+   sort = Docinfo language|
+   order = asc|
+   limit = 10|
+   searchlabel = [&amp;hellip;]
+ }}
+}}&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;display: none; read: none;&quot;&gt; &lt;!-- This DIV creates the actual annotations --&gt;
+[[Docinfo master page::{{{master page}}}]] [[Docinfo language::{{{lang}}}]] 
+[[from version::{{{minversion}}}]] 
+{{#if:{{{maxversion|}}}|[[to version::{{{maxversion}}}]]|}}
+{{#if:{{{maxversion|}}}|{{#set:Release status=old}}[[Category:Semantic MediaWiki documentation - old releases|{{PAGENAME}}]]|{{#set:Release status=current}}[[Category:Semantic MediaWiki documentation|{{PAGENAME}}]]}}
+&lt;/div&gt;{{#set:Is master page={{#ifeq:{{FULLPAGENAME}}|{{{master page}}}|true|false}}}}&lt;br /&gt;&lt;/includeonly&gt;&lt;/onlyinclude&gt;
+{{documentation includeonly}}
+{{documentation}}</text>
+      <sha1>2hz8ct0st72tfmwqjbu3pgahvprqmlk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Docinfo/effective</title>
+    <ns>10</ns>
+    <id>1580</id>
+    <revision>
+      <id>6015</id>
+      <timestamp>2011-04-07T16:19:59Z</timestamp>
+      <contributor>
+        <username>Dick6809</username>
+        <id>645</id>
+      </contributor>
+      <comment>Initial release</comment>
+      <text xml:space="preserve" bytes="213">&lt;includeonly&gt;{{#set:
+|docinfo status=effective
+}}[[Category:Effective {{#ifeq:{{NAMESPACE}}|{{ns:10}}
+|templates
+|pages
+}}|{{PAGENAME}}]]&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation subtemplate|docinfo}}
+&lt;/noinclude&gt;</text>
+      <sha1>jtvtu2g2xdb2hnu1onksjg86iwf3j4k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Docinfo/null</title>
+    <ns>10</ns>
+    <id>1586</id>
+    <revision>
+      <id>6021</id>
+      <timestamp>2011-04-07T16:23:39Z</timestamp>
+      <contributor>
+        <username>Dick6809</username>
+        <id>645</id>
+      </contributor>
+      <comment>Initial release</comment>
+      <text xml:space="preserve" bytes="65">&lt;onlyinclude&gt;&lt;/onlyinclude&gt;
+{{documentation subtemplate|docinfo}}</text>
+      <sha1>83w1x6zu2lswy71pw11ix7pl3zn08jy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
